@@ -1,0 +1,13 @@
+The knowledge packs in this repository's releases are not covered by Dravix's MIT license.
+
+They are derived from the MapleClassic Wiki (https://mapleclassic.wiki/), whose content is
+published under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+license (CC BY-NC-SA 4.0). They are shared under the same license:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Attribution: game data from the MapleClassic Wiki contributors, https://mapleclassic.wiki/
+Changes: tables were selected, joined and cleaned; training spots were derived from monster
+levels and spawns; each monster keeps its five likeliest drops; quest texts were shortened.
+
+The packs hold data only: no code, and no game art or sprites. Game names belong to their
+owners.
