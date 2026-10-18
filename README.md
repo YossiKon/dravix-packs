@@ -1,8 +1,9 @@
 # Dravix packs
 
 Signed knowledge packs for Dravix, a personal on-screen companion for MapleStory Classic World.
-They hold game data only: maps, portals, monsters with their drops, training spots, quests with
-their rewards, jobs and skills. There is no code here, and no game art.
+They hold game data only: maps, portals, monsters with their drops, elements and whether they are
+undead, training spots, quests with their rewards, start points, turn-in NPCs and next quests, jobs
+and skills. There is no code here, and no game art.
 
 - **Source:** the [MapleClassic Wiki](https://mapleclassic.wiki/), licensed CC BY-NC-SA 4.0.
   These packs adapt it and are shared under the same license: see [LICENSE](LICENSE).
