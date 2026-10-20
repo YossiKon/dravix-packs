@@ -9,5 +9,9 @@ Attribution: game data from the MapleClassic Wiki contributors, https://maplecla
 Changes: tables were selected, joined and cleaned; training spots were derived from monster
 levels and spawns; each monster keeps its five likeliest drops; quest texts were shortened.
 
-The packs hold data only: no code, and no game art or sprites. Game names belong to their
-owners.
+The pictures of monsters, items, NPCs and skills in a pack of format 3 or later are NEXON's game
+art, as the MapleClassic Wiki shows them, included for identification only. They are covered
+neither by the wiki's license nor by Dravix's; NEXON holds their copyright.
+
+The packs hold no code. MapleStory is a trademark of NEXON Korea Corporation. Dravix is not
+affiliated with NEXON or with the MapleClassic Wiki.
