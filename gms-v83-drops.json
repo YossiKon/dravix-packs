@@ -1,0 +1,6472 @@
+{
+  "version": 1,
+  "source": {
+    "name": "HeavenMS",
+    "url": "https://github.com/ronancpl/HeavenMS",
+    "file": "sql/db_drops.sql",
+    "commit": "bb586a7c0b9862fbe689c257c48e626ade3881d0",
+    "license": "AGPL-3.0",
+    "licenseUrl": "https://www.gnu.org/licenses/agpl-3.0.txt",
+    "game": "GMS v83",
+    "names": "maplestory.io, /api/GMS/83/mob and /api/GMS/83/item, read on 2026-10-21",
+    "method": "drop_data rows joined to the MapleClassic Wiki's monsters and items by name only, since Classic World renumbered its items; rows bound to a quest, at zero chance, of cards (238xxxx) or of items the wiki does not list are left out; each item once per monster; reviewed by item class on 2026-10-22"
+  },
+  "rows": [
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 4230104,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "2000004",
+      "itemName": "Elixir",
+      "v83Monster": 4230104,
+      "v83Item": 2000004
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "4010003",
+      "itemName": "Adamantium Ore",
+      "v83Monster": 4230104,
+      "v83Item": 4010003
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "4020002",
+      "itemName": "Aquamarine Ore",
+      "v83Monster": 4230104,
+      "v83Item": 4020002
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1302013",
+      "itemName": "Yellow Umbrella",
+      "v83Monster": 4230104,
+      "v83Item": 1302016
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1002157",
+      "itemName": "Red Duke",
+      "v83Monster": 4230104,
+      "v83Item": 1002025
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1002167",
+      "itemName": "Mithril Crusader Helm",
+      "v83Monster": 4230104,
+      "v83Item": 1002085
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1041074",
+      "itemName": "Red Shouldermail",
+      "v83Monster": 4230104,
+      "v83Item": 1041087
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1061069",
+      "itemName": "Red Shouldermail Pants",
+      "v83Monster": 4230104,
+      "v83Item": 1061086
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1412007",
+      "itemName": "The Rising",
+      "v83Monster": 4230104,
+      "v83Item": 1412003
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1002170",
+      "itemName": "Orange Golden Circlet",
+      "v83Monster": 4230104,
+      "v83Item": 1002217
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1382005",
+      "itemName": "Arc Staff",
+      "v83Monster": 4230104,
+      "v83Item": 1382001
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1041069",
+      "itemName": "Brown Piettra",
+      "v83Monster": 4230104,
+      "v83Item": 1041082
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1061063",
+      "itemName": "Brown Piettra Skirt",
+      "v83Monster": 4230104,
+      "v83Item": 1061081
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1041068",
+      "itemName": "White Piettra",
+      "v83Monster": 4230104,
+      "v83Item": 1041081
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1041080",
+      "itemName": "Brown Moon",
+      "v83Monster": 4230104,
+      "v83Item": 1041079
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1061075",
+      "itemName": "Brown Moon Pants",
+      "v83Monster": 4230104,
+      "v83Item": 1061078
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1040066",
+      "itemName": "Marine Shadow",
+      "v83Monster": 4230104,
+      "v83Item": 1040083
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1040074",
+      "itemName": "Blue China",
+      "v83Monster": 4230104,
+      "v83Item": 1040095
+    },
+    {
+      "monster": "44",
+      "monsterName": "Clang",
+      "item": "1060064",
+      "itemName": "Blue China Pants",
+      "v83Monster": 4230104,
+      "v83Item": 1060084
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "4000034",
+      "itemName": "Cold Eye Tail",
+      "v83Monster": 4230100,
+      "v83Item": 4000023
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 4230100,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "2000002",
+      "itemName": "White Potion",
+      "v83Monster": 4230100,
+      "v83Item": 2000002
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 4230100,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "4010006",
+      "itemName": "Gold Ore",
+      "v83Monster": 4230100,
+      "v83Item": 4010006
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1412005",
+      "itemName": "Niam",
+      "v83Monster": 4230100,
+      "v83Item": 1412004
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1002141",
+      "itemName": "Gold Nordic Helm",
+      "v83Monster": 4230100,
+      "v83Item": 1002098
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1072112",
+      "itemName": "Emerald Hildon Boots",
+      "v83Monster": 4230100,
+      "v83Item": 1072132
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1002039",
+      "itemName": "Pink Moon Conehat",
+      "v83Monster": 4230100,
+      "v83Item": 1002103
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1072116",
+      "itemName": "Pink Goldwind Shoes",
+      "v83Monster": 4230100,
+      "v83Item": 1072140
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1072088",
+      "itemName": "Red Salt Shoes",
+      "v83Monster": 4230100,
+      "v83Item": 1072090
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1002149",
+      "itemName": "Red Distinction",
+      "v83Monster": 4230100,
+      "v83Item": 1002166
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1002148",
+      "itemName": "Brown Distinction",
+      "v83Monster": 4230100,
+      "v83Item": 1002169
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1462004",
+      "itemName": "Eagle Crow",
+      "v83Monster": 4230100,
+      "v83Item": 1462004
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1082075",
+      "itemName": "Brown Moon Gloves",
+      "v83Monster": 4230100,
+      "v83Item": 1082066
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1041071",
+      "itemName": "Red Shadow",
+      "v83Monster": 4230100,
+      "v83Item": 1041075
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1061066",
+      "itemName": "Red Shadow Pants",
+      "v83Monster": 4230100,
+      "v83Item": 1061070
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1472013",
+      "itemName": "Dark Guardian",
+      "v83Monster": 4230100,
+      "v83Item": 1472013
+    },
+    {
+      "monster": "37",
+      "monsterName": "Cold Eye",
+      "item": "1472017",
+      "itemName": "Dark Avarice",
+      "v83Monster": 4230100,
+      "v83Item": 1472017
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "4000050",
+      "itemName": "Dragon Skin",
+      "v83Monster": 4130100,
+      "v83Item": 4000030
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "4000036",
+      "itemName": "Drake Skull",
+      "v83Monster": 4130100,
+      "v83Item": 4000014
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "2000004",
+      "itemName": "Elixir",
+      "v83Monster": 4130100,
+      "v83Item": 2000004
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "4006001",
+      "itemName": "The Summoning Rock",
+      "v83Monster": 4130100,
+      "v83Item": 4006001
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "4010005",
+      "itemName": "Orihalcon Ore",
+      "v83Monster": 4130100,
+      "v83Item": 4010005
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "4020008",
+      "itemName": "Black Crystal Ore",
+      "v83Monster": 4130100,
+      "v83Item": 4020008
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1050017",
+      "itemName": "Dark Crusader Chainmail",
+      "v83Monster": 4130100,
+      "v83Item": 1050022
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1002161",
+      "itemName": "Blue Bone Helm",
+      "v83Monster": 4130100,
+      "v83Item": 1002045
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1072113",
+      "itemName": "Mithril Hildon Boots",
+      "v83Monster": 4130100,
+      "v83Item": 1072133
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1332016",
+      "itemName": "Sai",
+      "v83Monster": 4130100,
+      "v83Item": 1332016
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1322016",
+      "itemName": "Jacker",
+      "v83Monster": 4130100,
+      "v83Item": 1322016
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1302015",
+      "itemName": "Jeweled Katar",
+      "v83Monster": 4130100,
+      "v83Item": 1302010
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1382005",
+      "itemName": "Arc Staff",
+      "v83Monster": 4130100,
+      "v83Item": 1382001
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1082057",
+      "itemName": "Dark Arten",
+      "v83Monster": 4130100,
+      "v83Item": 1082064
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1050028",
+      "itemName": "Red Calas",
+      "v83Monster": 4130100,
+      "v83Item": 1050046
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1072122",
+      "itemName": "Purple Steel-Tip Boots",
+      "v83Monster": 4130100,
+      "v83Item": 1072125
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1040062",
+      "itemName": "Brown Piette",
+      "v83Monster": 4130100,
+      "v83Item": 1040079
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1060054",
+      "itemName": "Brown Piette Pants",
+      "v83Monster": 4130100,
+      "v83Item": 1060069
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1002126",
+      "itemName": "Blue Pole-Feather Hat",
+      "v83Monster": 4130100,
+      "v83Item": 1002138
+    },
+    {
+      "monster": "40",
+      "monsterName": "Copper Drake",
+      "item": "1472012",
+      "itemName": "Silver Guardian",
+      "v83Monster": 4130100,
+      "v83Item": 1472012
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "4000041",
+      "itemName": "Croco Skin",
+      "v83Monster": 5130103,
+      "v83Item": 4000033
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "2000002",
+      "itemName": "White Potion",
+      "v83Monster": 5130103,
+      "v83Item": 2000002
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 5130103,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "2000004",
+      "itemName": "Elixir",
+      "v83Monster": 5130103,
+      "v83Item": 2000004
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "4010000",
+      "itemName": "Bronze Ore",
+      "v83Monster": 5130103,
+      "v83Item": 4010000
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "4020004",
+      "itemName": "Opal Ore",
+      "v83Monster": 5130103,
+      "v83Item": 4020004
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "4020007",
+      "itemName": "Diamond Ore",
+      "v83Monster": 5130103,
+      "v83Item": 4020007
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "1092017",
+      "itemName": "Wooden Legend Shield",
+      "v83Monster": 5130103,
+      "v83Item": 1092009
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "1002171",
+      "itemName": "Dark Golden Circlet",
+      "v83Monster": 5130103,
+      "v83Item": 1002218
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "1050028",
+      "itemName": "Red Calas",
+      "v83Monster": 5130103,
+      "v83Item": 1050046
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "1051028",
+      "itemName": "Blue Lumati",
+      "v83Monster": 5130103,
+      "v83Item": 1051037
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "1040081",
+      "itemName": "Light Scorpio",
+      "v83Monster": 5130103,
+      "v83Item": 1040098
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "1060071",
+      "itemName": "Light Scorpio Pants",
+      "v83Monster": 5130103,
+      "v83Item": 1060087
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "1041080",
+      "itemName": "Brown Moon",
+      "v83Monster": 5130103,
+      "v83Item": 1041079
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "1061075",
+      "itemName": "Brown Moon Pants",
+      "v83Monster": 5130103,
+      "v83Item": 1061078
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "1082085",
+      "itemName": "Bronze Pow",
+      "v83Monster": 5130103,
+      "v83Item": 1082092
+    },
+    {
+      "monster": "46",
+      "monsterName": "Croco",
+      "item": "1002179",
+      "itemName": "Brown Sonata",
+      "v83Monster": 5130103,
+      "v83Item": 1002210
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "4000044",
+      "itemName": "Dark Stone Golem Rubble",
+      "v83Monster": 5130102,
+      "v83Item": 4000025
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "4001007",
+      "itemName": "Ancient Scroll",
+      "v83Monster": 5130102,
+      "v83Item": 4001005
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 5130102,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "2000004",
+      "itemName": "Elixir",
+      "v83Monster": 5130102,
+      "v83Item": 2000004
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "4020008",
+      "itemName": "Black Crystal Ore",
+      "v83Monster": 5130102,
+      "v83Item": 4020008
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "4003019",
+      "itemName": "Dark Crystal Ore",
+      "v83Monster": 5130102,
+      "v83Item": 4004004
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1102016",
+      "itemName": "Black Magic Cape",
+      "v83Monster": 5130102,
+      "v83Item": 1102018
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1032017",
+      "itemName": "Holy Cross Earrings",
+      "v83Monster": 5130102,
+      "v83Item": 1032021
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1040078",
+      "itemName": "Red Orientican",
+      "v83Monster": 5130102,
+      "v83Item": 1040091
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1060068",
+      "itemName": "Red Orientican Pants",
+      "v83Monster": 5130102,
+      "v83Item": 1060080
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1002182",
+      "itemName": "Old Steel Nordic Helm",
+      "v83Monster": 5130102,
+      "v83Item": 1002022
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1040059",
+      "itemName": "Maroon Jangoon Armor",
+      "v83Monster": 5130102,
+      "v83Item": 1040085
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1060052",
+      "itemName": "White Jangoon Pants",
+      "v83Monster": 5130102,
+      "v83Item": 1060074
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1082064",
+      "itemName": "Steel Brist",
+      "v83Monster": 5130102,
+      "v83Item": 1082009
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1072135",
+      "itemName": "Blue Goldrunners",
+      "v83Monster": 5130102,
+      "v83Item": 1072139
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1082081",
+      "itemName": "Dark Manute",
+      "v83Monster": 5130102,
+      "v83Item": 1082088
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1382007",
+      "itemName": "Evil Wings",
+      "v83Monster": 5130102,
+      "v83Item": 1382007
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1050027",
+      "itemName": "Dark Starlight",
+      "v83Monster": 5130102,
+      "v83Item": 1050039
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1002175",
+      "itemName": "Black Maro",
+      "v83Monster": 5130102,
+      "v83Item": 1002214
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1050040",
+      "itemName": "Blue Tai",
+      "v83Monster": 5130102,
+      "v83Item": 1050059
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1072104",
+      "itemName": "Brown Pierre Shoes",
+      "v83Monster": 5130102,
+      "v83Item": 1072120
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1002197",
+      "itemName": "Dark Identity",
+      "v83Monster": 5130102,
+      "v83Item": 1002249
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1002178",
+      "itemName": "Green Sonata",
+      "v83Monster": 5130102,
+      "v83Item": 1002209
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1041072",
+      "itemName": "Purple Shadow",
+      "v83Monster": 5130102,
+      "v83Item": 1041074
+    },
+    {
+      "monster": "49",
+      "monsterName": "Dark Stone Golem",
+      "item": "1061067",
+      "itemName": "Purple Shadow Pants",
+      "v83Monster": 5130102,
+      "v83Item": 1061069
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "4000050",
+      "itemName": "Dragon Skin",
+      "v83Monster": 5130100,
+      "v83Item": 4000030
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "4000036",
+      "itemName": "Drake Skull",
+      "v83Monster": 5130100,
+      "v83Item": 4000014
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 5130100,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "2000002",
+      "itemName": "White Potion",
+      "v83Monster": 5130100,
+      "v83Item": 2000002
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "2002000",
+      "itemName": "Warrior Potion",
+      "v83Monster": 5130100,
+      "v83Item": 2002004
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "2000004",
+      "itemName": "Elixir",
+      "v83Monster": 5130100,
+      "v83Item": 2000004
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "4010006",
+      "itemName": "Gold Ore",
+      "v83Monster": 5130100,
+      "v83Item": 4010006
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "4020007",
+      "itemName": "Diamond Ore",
+      "v83Monster": 5130100,
+      "v83Item": 4020007
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1332016",
+      "itemName": "Sai",
+      "v83Monster": 5130100,
+      "v83Item": 1332016
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1432005",
+      "itemName": "Zeco",
+      "v83Monster": 5130100,
+      "v83Item": 1432005
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1412006",
+      "itemName": "Sabretooth",
+      "v83Monster": 5130100,
+      "v83Item": 1412005
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1040070",
+      "itemName": "Umber Shouldermail",
+      "v83Monster": 5130100,
+      "v83Item": 1040089
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1060060",
+      "itemName": "Umber Shouldermail Pants",
+      "v83Monster": 5130100,
+      "v83Item": 1060078
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1382006",
+      "itemName": "Thorns",
+      "v83Monster": 5130100,
+      "v83Item": 1382006
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1051025",
+      "itemName": "Dark Calaf",
+      "v83Monster": 5130100,
+      "v83Item": 1051030
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1051031",
+      "itemName": "Red Anakarune",
+      "v83Monster": 5130100,
+      "v83Item": 1051045
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1072100",
+      "itemName": "Red Moon Shoes",
+      "v83Monster": 5130100,
+      "v83Item": 1072114
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1082072",
+      "itemName": "Dark Willow",
+      "v83Monster": 5130100,
+      "v83Item": 1082083
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1452006",
+      "itemName": "Vaulter 2000",
+      "v83Monster": 5130100,
+      "v83Item": 1452007
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1051028",
+      "itemName": "Blue Lumati",
+      "v83Monster": 5130100,
+      "v83Item": 1051037
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1041080",
+      "itemName": "Brown Moon",
+      "v83Monster": 5130100,
+      "v83Item": 1041079
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1041079",
+      "itemName": "Maroon Moon",
+      "v83Monster": 5130100,
+      "v83Item": 1041077
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1061074",
+      "itemName": "Maroon Moon Pants",
+      "v83Monster": 5130100,
+      "v83Item": 1061076
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1072110",
+      "itemName": "Black Green-Lined Shoes",
+      "v83Monster": 5130100,
+      "v83Item": 1072108
+    },
+    {
+      "monster": "45",
+      "monsterName": "Drake",
+      "item": "1472017",
+      "itemName": "Dark Avarice",
+      "v83Monster": 5130100,
+      "v83Item": 1472017
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "4000049",
+      "itemName": "Leather",
+      "v83Monster": 3210100,
+      "v83Item": 4000021
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "2000002",
+      "itemName": "White Potion",
+      "v83Monster": 3210100,
+      "v83Item": 2000002
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 3210100,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "4006001",
+      "itemName": "The Summoning Rock",
+      "v83Monster": 3210100,
+      "v83Item": 4006001
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "4020000",
+      "itemName": "Garnet Ore",
+      "v83Monster": 3210100,
+      "v83Item": 4020000
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "4020007",
+      "itemName": "Diamond Ore",
+      "v83Monster": 3210100,
+      "v83Item": 4020007
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "1332013",
+      "itemName": "Korean Fan",
+      "v83Monster": 3210100,
+      "v83Item": 1332020
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "1040041",
+      "itemName": "Green Hwarang Shirt",
+      "v83Monster": 3210100,
+      "v83Item": 1040026
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "1060031",
+      "itemName": "Brown Martial Arts Pants",
+      "v83Monster": 3210100,
+      "v83Item": 1060019
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "1072090",
+      "itemName": "Black Salt Shoes",
+      "v83Monster": 3210100,
+      "v83Item": 1072091
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "1082032",
+      "itemName": "Blue Lutia",
+      "v83Monster": 3210100,
+      "v83Item": 1082052
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "1072092",
+      "itemName": "Red Silky Boots",
+      "v83Monster": 3210100,
+      "v83Item": 1072103
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "1452004",
+      "itemName": "Ryden",
+      "v83Monster": 3210100,
+      "v83Item": 1452005
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "1462005",
+      "itemName": "Heckler",
+      "v83Monster": 3210100,
+      "v83Item": 1462005
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "1072070",
+      "itemName": "Red Hunter Boots",
+      "v83Monster": 3210100,
+      "v83Item": 1072079
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "1472012",
+      "itemName": "Silver Guardian",
+      "v83Monster": 3210100,
+      "v83Item": 1472012
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "1082039",
+      "itemName": "Gold Sylvia",
+      "v83Monster": 3210100,
+      "v83Item": 1082044
+    },
+    {
+      "monster": "30",
+      "monsterName": "Fire Boar",
+      "item": "1002133",
+      "itemName": "Green Burgler",
+      "v83Monster": 3210100,
+      "v83Item": 1002178
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 6400008,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "2000006",
+      "itemName": "Mana Elixir",
+      "v83Monster": 6400008,
+      "v83Item": 2000006
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "2000005",
+      "itemName": "Power Elixir",
+      "v83Monster": 6400008,
+      "v83Item": 2000005
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "4020108",
+      "itemName": "Black Crystal",
+      "v83Monster": 6400008,
+      "v83Item": 4021008
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1422009",
+      "itemName": "Gigantic Sledge",
+      "v83Monster": 6400008,
+      "v83Item": 1422010
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1402010",
+      "itemName": "Doombringer",
+      "v83Monster": 6400008,
+      "v83Item": 1402012
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1322025",
+      "itemName": "The Judgement",
+      "v83Monster": 6400008,
+      "v83Item": 1322019
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1332021",
+      "itemName": "Golden River",
+      "v83Monster": 6400008,
+      "v83Item": 1332019
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1092017",
+      "itemName": "Wooden Legend Shield",
+      "v83Monster": 6400008,
+      "v83Item": 1092009
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1432008",
+      "itemName": "Redemption",
+      "v83Monster": 6400008,
+      "v83Item": 1432007
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1302018",
+      "itemName": "Red Katana",
+      "v83Monster": 6400008,
+      "v83Item": 1302012
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1092021",
+      "itemName": "Silver Ancient Shield",
+      "v83Monster": 6400008,
+      "v83Item": 1092016
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1312010",
+      "itemName": "Mikhail",
+      "v83Monster": 6400008,
+      "v83Item": 1312010
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1382007",
+      "itemName": "Evil Wings",
+      "v83Monster": 6400008,
+      "v83Item": 1382007
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1462009",
+      "itemName": "Gross Jaeger",
+      "v83Monster": 6400008,
+      "v83Item": 1462009
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1452010",
+      "itemName": "Red Hinkel",
+      "v83Monster": 6400008,
+      "v83Item": 1452009
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1472027",
+      "itemName": "Brown Scarab",
+      "v83Monster": 6400008,
+      "v83Item": 1472026
+    },
+    {
+      "monster": "700001",
+      "monsterName": "Jr. Balrog",
+      "item": "1332020",
+      "itemName": "Kandine",
+      "v83Monster": 6400008,
+      "v83Item": 1332018
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "4000028",
+      "itemName": "Tablecloth",
+      "v83Monster": 3230101,
+      "v83Item": 4000035
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "2000002",
+      "itemName": "White Potion",
+      "v83Monster": 3230101,
+      "v83Item": 2000002
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "4010003",
+      "itemName": "Adamantium Ore",
+      "v83Monster": 3230101,
+      "v83Item": 4010003
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "4020004",
+      "itemName": "Opal Ore",
+      "v83Monster": 3230101,
+      "v83Item": 4020004
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "4003015",
+      "itemName": "Power Crystal Ore",
+      "v83Monster": 3230101,
+      "v83Item": 4004000
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "1412005",
+      "itemName": "Niam",
+      "v83Monster": 3230101,
+      "v83Item": 1412004
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "1050017",
+      "itemName": "Dark Crusader Chainmail",
+      "v83Monster": 3230101,
+      "v83Item": 1050022
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "1051005",
+      "itemName": "Dark Engrit",
+      "v83Monster": 3230101,
+      "v83Item": 1051010
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "1082045",
+      "itemName": "Dark Noel",
+      "v83Monster": 3230101,
+      "v83Item": 1082056
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "1072100",
+      "itemName": "Red Moon Shoes",
+      "v83Monster": 3230101,
+      "v83Item": 1072114
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "1452003",
+      "itemName": "Battle Bow",
+      "v83Monster": 3230101,
+      "v83Item": 1452000
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "1072106",
+      "itemName": "Red Pierre Shoes",
+      "v83Monster": 3230101,
+      "v83Item": 1072118
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "1082047",
+      "itemName": "Mithril Scaler",
+      "v83Monster": 3230101,
+      "v83Item": 1082069
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "1040063",
+      "itemName": "Dark Piette",
+      "v83Monster": 3230101,
+      "v83Item": 1040080
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "1082051",
+      "itemName": "Orihalcon Arbion",
+      "v83Monster": 3230101,
+      "v83Item": 1082047
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "1472016",
+      "itemName": "Adamantium Avarice",
+      "v83Monster": 3230101,
+      "v83Item": 1472016
+    },
+    {
+      "monster": "32",
+      "monsterName": "Jr. Wraith",
+      "item": "1051014",
+      "itemName": "Blue Avenger",
+      "v83Monster": 3230101,
+      "v83Item": 1051008
+    },
+    {
+      "monster": "800003",
+      "monsterName": "King Slime",
+      "item": "1072128",
+      "itemName": "Squishy Shoes",
+      "v83Monster": 9300187,
+      "v83Item": 1072369
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 3230102,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "2000002",
+      "itemName": "White Potion",
+      "v83Monster": 3230102,
+      "v83Item": 2000002
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 3230102,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "4006001",
+      "itemName": "The Summoning Rock",
+      "v83Monster": 3230102,
+      "v83Item": 4006001
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "4010005",
+      "itemName": "Orihalcon Ore",
+      "v83Monster": 3230102,
+      "v83Item": 4010005
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "4020000",
+      "itemName": "Garnet Ore",
+      "v83Monster": 3230102,
+      "v83Item": 4020000
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1322018",
+      "itemName": "Blue Flowery Tube",
+      "v83Monster": 3230102,
+      "v83Item": 1322023
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1322019",
+      "itemName": "Red Flowery Tube",
+      "v83Monster": 3230102,
+      "v83Item": 1322022
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1332013",
+      "itemName": "Korean Fan",
+      "v83Monster": 3230102,
+      "v83Item": 1332020
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1322020",
+      "itemName": "Purple Tube",
+      "v83Monster": 3230102,
+      "v83Item": 1322024
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1302007",
+      "itemName": "Sky Blue Umbrella",
+      "v83Monster": 3230102,
+      "v83Item": 1302017
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1322021",
+      "itemName": "Black Tube",
+      "v83Monster": 3230102,
+      "v83Item": 1322021
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1092015",
+      "itemName": "Adamantium Tower Shield",
+      "v83Monster": 3230102,
+      "v83Item": 1092014
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1442004",
+      "itemName": "Mithril Pole Arm",
+      "v83Monster": 3230102,
+      "v83Item": 1442001
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1050018",
+      "itemName": "White Crusader Chainmail",
+      "v83Monster": 3230102,
+      "v83Item": 1050000
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1072087",
+      "itemName": "Dark Trigger",
+      "v83Monster": 3230102,
+      "v83Item": 1072113
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1082045",
+      "itemName": "Dark Noel",
+      "v83Monster": 3230102,
+      "v83Item": 1082056
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1050025",
+      "itemName": "Blue Starlight",
+      "v83Monster": 3230102,
+      "v83Item": 1050038
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1072107",
+      "itemName": "Blue Pierre Shoes",
+      "v83Monster": 3230102,
+      "v83Item": 1072121
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1040063",
+      "itemName": "Dark Piette",
+      "v83Monster": 3230102,
+      "v83Item": 1040080
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1452004",
+      "itemName": "Ryden",
+      "v83Monster": 3230102,
+      "v83Item": 1452005
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1082063",
+      "itemName": "Dark Cleave",
+      "v83Monster": 3230102,
+      "v83Item": 1082074
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1041072",
+      "itemName": "Purple Shadow",
+      "v83Monster": 3230102,
+      "v83Item": 1041074
+    },
+    {
+      "monster": "36",
+      "monsterName": "Lorang",
+      "item": "1061067",
+      "itemName": "Purple Shadow Pants",
+      "v83Monster": 3230102,
+      "v83Item": 1061069
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "4000030",
+      "itemName": "Lupin Doll",
+      "v83Monster": 3210800,
+      "v83Item": 4000026
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "4000049",
+      "itemName": "Leather",
+      "v83Monster": 3210800,
+      "v83Item": 4000021
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "4003002",
+      "itemName": "Stiff Feather",
+      "v83Monster": 3210800,
+      "v83Item": 4003004
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 3210800,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 3210800,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "4010004",
+      "itemName": "Silver Ore",
+      "v83Monster": 3210800,
+      "v83Item": 4010004
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "4020003",
+      "itemName": "Emerald Ore",
+      "v83Monster": 3210800,
+      "v83Item": 4020003
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "1402004",
+      "itemName": "Aluminum Baseball Bat",
+      "v83Monster": 3210800,
+      "v83Item": 1402010
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "1051010",
+      "itemName": "Sapphire Fitted Mail",
+      "v83Monster": 3210800,
+      "v83Item": 1051014
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "1092014",
+      "itemName": "Mithril Tower Shield",
+      "v83Monster": 3210800,
+      "v83Item": 1092013
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "1072102",
+      "itemName": "Gold Moon Shoes",
+      "v83Monster": 3210800,
+      "v83Item": 1072116
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "1002106",
+      "itemName": "Brown Jester",
+      "v83Monster": 3210800,
+      "v83Item": 1002038
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "1040055",
+      "itemName": "Dark Legolier",
+      "v83Monster": 3210800,
+      "v83Item": 1040075
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "1060047",
+      "itemName": "Dark Legolier Pants",
+      "v83Monster": 3210800,
+      "v83Item": 1060064
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "1002127",
+      "itemName": "Dark Pole-Feather Hat",
+      "v83Monster": 3210800,
+      "v83Item": 1002136
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "1041055",
+      "itemName": "Purple Steal",
+      "v83Monster": 3210800,
+      "v83Item": 1041050
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "1061050",
+      "itemName": "Purple Steal Pants",
+      "v83Monster": 3210800,
+      "v83Item": 1061046
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "1472017",
+      "itemName": "Dark Avarice",
+      "v83Monster": 3210800,
+      "v83Item": 1472017
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "1002117",
+      "itemName": "Blue Guise",
+      "v83Monster": 3210800,
+      "v83Item": 1002172
+    },
+    {
+      "monster": "35",
+      "monsterName": "Lupin",
+      "item": "1072111",
+      "itemName": "Black Yellow-Lined Shoes",
+      "v83Monster": 3210800,
+      "v83Item": 1072109
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 5300100,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "2000002",
+      "itemName": "White Potion",
+      "v83Monster": 5300100,
+      "v83Item": 2000002
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 5300100,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "2000004",
+      "itemName": "Elixir",
+      "v83Monster": 5300100,
+      "v83Item": 2000004
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "4006000",
+      "itemName": "The Magic Rock",
+      "v83Monster": 5300100,
+      "v83Item": 4006000
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "4010006",
+      "itemName": "Gold Ore",
+      "v83Monster": 5300100,
+      "v83Item": 4010006
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "4020008",
+      "itemName": "Black Crystal Ore",
+      "v83Monster": 5300100,
+      "v83Item": 4020008
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "4003019",
+      "itemName": "Dark Crystal Ore",
+      "v83Monster": 5300100,
+      "v83Item": 4004004
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1032016",
+      "itemName": "Crystal Flower Earrings",
+      "v83Monster": 5300100,
+      "v83Item": 1032019
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1040060",
+      "itemName": "Blue Jangoon Armor",
+      "v83Monster": 5300100,
+      "v83Item": 1040086
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1040077",
+      "itemName": "Green Orientican",
+      "v83Monster": 5300100,
+      "v83Item": 1040090
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1060067",
+      "itemName": "Green Orientican Pants",
+      "v83Monster": 5300100,
+      "v83Item": 1060079
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1082066",
+      "itemName": "Gold Brist",
+      "v83Monster": 5300100,
+      "v83Item": 1082011
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1060051",
+      "itemName": "Black Jangoon Pants",
+      "v83Monster": 5300100,
+      "v83Item": 1060000
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1002158",
+      "itemName": "Yellow Duke",
+      "v83Monster": 5300100,
+      "v83Item": 1002092
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1382005",
+      "itemName": "Arc Staff",
+      "v83Monster": 5300100,
+      "v83Item": 1382001
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1051026",
+      "itemName": "White Calaf",
+      "v83Monster": 5300100,
+      "v83Item": 1051031
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1072119",
+      "itemName": "Green Goldwind Shoes",
+      "v83Monster": 5300100,
+      "v83Item": 1072143
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1072133",
+      "itemName": "Green Goldrunners",
+      "v83Monster": 5300100,
+      "v83Item": 1072137
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1452007",
+      "itemName": "Olympus",
+      "v83Monster": 5300100,
+      "v83Item": 1452008
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1452009",
+      "itemName": "Asianic Bow",
+      "v83Monster": 5300100,
+      "v83Item": 1452004
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1002147",
+      "itemName": "Green Distinction",
+      "v83Monster": 5300100,
+      "v83Item": 1002168
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1051029",
+      "itemName": "Red Lumati",
+      "v83Monster": 5300100,
+      "v83Item": 1051039
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1472020",
+      "itemName": "Sapphire Slain",
+      "v83Monster": 5300100,
+      "v83Item": 1472020
+    },
+    {
+      "monster": "47",
+      "monsterName": "Malady",
+      "item": "1332015",
+      "itemName": "Shinkita",
+      "v83Monster": 5300100,
+      "v83Item": 1332003
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "4000036",
+      "itemName": "Drake Skull",
+      "v83Monster": 6130100,
+      "v83Item": 4000014
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "4000050",
+      "itemName": "Dragon Skin",
+      "v83Monster": 6130100,
+      "v83Item": 4000030
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "2000006",
+      "itemName": "Mana Elixir",
+      "v83Monster": 6130100,
+      "v83Item": 2000006
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "2000004",
+      "itemName": "Elixir",
+      "v83Monster": 6130100,
+      "v83Item": 2000004
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "4010005",
+      "itemName": "Orihalcon Ore",
+      "v83Monster": 6130100,
+      "v83Item": 4010005
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "4020007",
+      "itemName": "Diamond Ore",
+      "v83Monster": 6130100,
+      "v83Item": 4020007
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1102018",
+      "itemName": "Red Gaia Cape",
+      "v83Monster": 6130100,
+      "v83Item": 1102022
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1072130",
+      "itemName": "Orihalcon Camel Boots",
+      "v83Monster": 6130100,
+      "v83Item": 1072148
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1040085",
+      "itemName": "Mithril Platine",
+      "v83Monster": 6130100,
+      "v83Item": 1040103
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1060075",
+      "itemName": "Mithril Platine Pants",
+      "v83Monster": 6130100,
+      "v83Item": 1060091
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1332016",
+      "itemName": "Sai",
+      "v83Monster": 6130100,
+      "v83Item": 1332016
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1092016",
+      "itemName": "Skull Shield",
+      "v83Monster": 6130100,
+      "v83Item": 1092004
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1372009",
+      "itemName": "Evil Tale",
+      "v83Monster": 6130100,
+      "v83Item": 1372014
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1002190",
+      "itemName": "Dark Seraphis",
+      "v83Monster": 6130100,
+      "v83Item": 1002246
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1072148",
+      "itemName": "Gold Lapiz Sandals",
+      "v83Monster": 6130100,
+      "v83Item": 1072160
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1072132",
+      "itemName": "Pink Goldrunners",
+      "v83Monster": 6130100,
+      "v83Item": 1072136
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1050028",
+      "itemName": "Red Calas",
+      "v83Monster": 6130100,
+      "v83Item": 1050046
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1050038",
+      "itemName": "Dark Anakamoon",
+      "v83Monster": 6130100,
+      "v83Item": 1050056
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1040062",
+      "itemName": "Brown Piette",
+      "v83Monster": 6130100,
+      "v83Item": 1040079
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1040063",
+      "itemName": "Dark Piette",
+      "v83Monster": 6130100,
+      "v83Item": 1040080
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1082094",
+      "itemName": "Blue Eyes",
+      "v83Monster": 6130100,
+      "v83Item": 1082106
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1072138",
+      "itemName": "Green Gore Boots",
+      "v83Monster": 6130100,
+      "v83Item": 1072146
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1082073",
+      "itemName": "Red Moon Gloves",
+      "v83Monster": 6130100,
+      "v83Item": 1082067
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1002196",
+      "itemName": "Silver Identity",
+      "v83Monster": 6130100,
+      "v83Item": 1002248
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1041077",
+      "itemName": "Red Moon",
+      "v83Monster": 6130100,
+      "v83Item": 1041080
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1061072",
+      "itemName": "Red Moon Pants",
+      "v83Monster": 6130100,
+      "v83Item": 1061079
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1040083",
+      "itemName": "Dark Scorpio",
+      "v83Monster": 6130100,
+      "v83Item": 1040100
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1060073",
+      "itemName": "Dark Scorpio Pants",
+      "v83Monster": 6130100,
+      "v83Item": 1060089
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1072154",
+      "itemName": "Blue Mystique Shoes",
+      "v83Monster": 6130100,
+      "v83Item": 1072162
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1040066",
+      "itemName": "Marine Shadow",
+      "v83Monster": 6130100,
+      "v83Item": 1040083
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1060058",
+      "itemName": "Marine Shadow Pants",
+      "v83Monster": 6130100,
+      "v83Item": 1060072
+    },
+    {
+      "monster": "50",
+      "monsterName": "Red Drake",
+      "item": "1061088",
+      "itemName": "Red Mystique Pants",
+      "v83Monster": 6130100,
+      "v83Item": 1061102
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "4000043",
+      "itemName": "Stone Golem Rubble",
+      "v83Monster": 5130101,
+      "v83Item": 4000022
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 5130101,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "2000004",
+      "itemName": "Elixir",
+      "v83Monster": 5130101,
+      "v83Item": 2000004
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "4020008",
+      "itemName": "Black Crystal Ore",
+      "v83Monster": 5130101,
+      "v83Item": 4020008
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "1312009",
+      "itemName": "Hawkhead",
+      "v83Monster": 5130101,
+      "v83Item": 1312009
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "1002165",
+      "itemName": "Bronze Crusader Helm",
+      "v83Monster": 5130101,
+      "v83Item": 1002086
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "1092010",
+      "itemName": "Red Cross Shield",
+      "v83Monster": 5130101,
+      "v83Item": 1092002
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "1082054",
+      "itemName": "Dark Knuckle",
+      "v83Monster": 5130101,
+      "v83Item": 1082025
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "1041081",
+      "itemName": "Green Ice Queen",
+      "v83Monster": 5130101,
+      "v83Item": 1041091
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "1061076",
+      "itemName": "Green Ice Queen Skirt",
+      "v83Monster": 5130101,
+      "v83Item": 1061090
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "1050031",
+      "itemName": "White Calas",
+      "v83Monster": 5130101,
+      "v83Item": 1050048
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "1072119",
+      "itemName": "Green Goldwind Shoes",
+      "v83Monster": 5130101,
+      "v83Item": 1072143
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "1072107",
+      "itemName": "Blue Pierre Shoes",
+      "v83Monster": 5130101,
+      "v83Item": 1072121
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "1002195",
+      "itemName": "Bronze Identity",
+      "v83Monster": 5130101,
+      "v83Item": 1002247
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "1041077",
+      "itemName": "Red Moon",
+      "v83Monster": 5130101,
+      "v83Item": 1041080
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "1061072",
+      "itemName": "Red Moon Pants",
+      "v83Monster": 5130101,
+      "v83Item": 1061079
+    },
+    {
+      "monster": "48",
+      "monsterName": "Stone Golem",
+      "item": "1082062",
+      "itemName": "Gold Cleave",
+      "v83Monster": 5130101,
+      "v83Item": 1082076
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "4000046",
+      "itemName": "Tauromacis Horn",
+      "v83Monster": 7130100,
+      "v83Item": 4000028
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "2000006",
+      "itemName": "Mana Elixir",
+      "v83Monster": 7130100,
+      "v83Item": 2000006
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "2000005",
+      "itemName": "Power Elixir",
+      "v83Monster": 7130100,
+      "v83Item": 2000005
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "4006000",
+      "itemName": "The Magic Rock",
+      "v83Monster": 7130100,
+      "v83Item": 4006000
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "4010006",
+      "itemName": "Gold Ore",
+      "v83Monster": 7130100,
+      "v83Item": 4010006
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "1041083",
+      "itemName": "Blue Ice Queen",
+      "v83Monster": 7130100,
+      "v83Item": 1041093
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "1061078",
+      "itemName": "Blue Ice Queen Skirt",
+      "v83Monster": 7130100,
+      "v83Item": 1061092
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "1322025",
+      "itemName": "The Judgement",
+      "v83Monster": 7130100,
+      "v83Item": 1322019
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "1002200",
+      "itemName": "Mithril Planet",
+      "v83Monster": 7130100,
+      "v83Item": 1002095
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "1050042",
+      "itemName": "Blue Requiem",
+      "v83Monster": 7130100,
+      "v83Item": 1050067
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "1051040",
+      "itemName": "Dark Requierre",
+      "v83Monster": 7130100,
+      "v83Item": 1051055
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "1452010",
+      "itemName": "Red Hinkel",
+      "v83Monster": 7130100,
+      "v83Item": 1452009
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "1002205",
+      "itemName": "Beige Patriot",
+      "v83Monster": 7130100,
+      "v83Item": 1002287
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "1051043",
+      "itemName": "Green Lineros",
+      "v83Monster": 7130100,
+      "v83Item": 1051064
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "1472027",
+      "itemName": "Brown Scarab",
+      "v83Monster": 7130100,
+      "v83Item": 1472026
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "1002210",
+      "itemName": "Purple Nightfox",
+      "v83Monster": 7130100,
+      "v83Item": 1002283
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "1060073",
+      "itemName": "Dark Scorpio Pants",
+      "v83Monster": 7130100,
+      "v83Item": 1060089
+    },
+    {
+      "monster": "52",
+      "monsterName": "Tauromacis",
+      "item": "1072155",
+      "itemName": "Red Mystique Shoes",
+      "v83Monster": 7130100,
+      "v83Item": 1072163
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "4000047",
+      "itemName": "Taurospear Horn",
+      "v83Monster": 7130101,
+      "v83Item": 4000046
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "2000005",
+      "itemName": "Power Elixir",
+      "v83Monster": 7130101,
+      "v83Item": 2000005
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "4006001",
+      "itemName": "The Summoning Rock",
+      "v83Monster": 7130101,
+      "v83Item": 4006001
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "4010003",
+      "itemName": "Adamantium Ore",
+      "v83Monster": 7130101,
+      "v83Item": 4010003
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "4020008",
+      "itemName": "Black Crystal Ore",
+      "v83Monster": 7130101,
+      "v83Item": 4020008
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "1412009",
+      "itemName": "Chrono",
+      "v83Monster": 7130101,
+      "v83Item": 1412008
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "1312008",
+      "itemName": "Buck",
+      "v83Monster": 7130101,
+      "v83Item": 1312008
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "1422009",
+      "itemName": "Gigantic Sledge",
+      "v83Monster": 7130101,
+      "v83Item": 1422010
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "1092020",
+      "itemName": "Steel Ancient Shield",
+      "v83Monster": 7130101,
+      "v83Item": 1092015
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "1002200",
+      "itemName": "Mithril Planet",
+      "v83Monster": 7130101,
+      "v83Item": 1002095
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "1092021",
+      "itemName": "Silver Ancient Shield",
+      "v83Monster": 7130101,
+      "v83Item": 1092016
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "1082093",
+      "itemName": "Dark Lorin",
+      "v83Monster": 7130101,
+      "v83Item": 1082100
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "1051033",
+      "itemName": "Dark Anakarune",
+      "v83Monster": 7130101,
+      "v83Item": 1051047
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "1051040",
+      "itemName": "Dark Requierre",
+      "v83Monster": 7130101,
+      "v83Item": 1051055
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "1452012",
+      "itemName": "Golden Hinkel",
+      "v83Monster": 7130101,
+      "v83Item": 1452011
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "1051042",
+      "itemName": "Beige Lineros",
+      "v83Monster": 7130101,
+      "v83Item": 1051063
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "1072152",
+      "itemName": "Dark Elf Shoes",
+      "v83Monster": 7130101,
+      "v83Item": 1072167
+    },
+    {
+      "monster": "53",
+      "monsterName": "Taurospear",
+      "item": "1041093",
+      "itemName": "Red Mystique",
+      "v83Monster": 7130101,
+      "v83Item": 1041103
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "4000037",
+      "itemName": "Tortie Shell",
+      "v83Monster": 4130101,
+      "v83Item": 4000045
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 4130101,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "2000002",
+      "itemName": "White Potion",
+      "v83Monster": 4130101,
+      "v83Item": 2000002
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 4130101,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "2000004",
+      "itemName": "Elixir",
+      "v83Monster": 4130101,
+      "v83Item": 2000004
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "4010002",
+      "itemName": "Mithril Ore",
+      "v83Monster": 4130101,
+      "v83Item": 4010002
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "4020001",
+      "itemName": "Amethyst Ore",
+      "v83Monster": 4130101,
+      "v83Item": 4020001
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1322021",
+      "itemName": "Black Tube",
+      "v83Monster": 4130101,
+      "v83Item": 1322021
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1322023",
+      "itemName": "Colorful Tube",
+      "v83Monster": 4130101,
+      "v83Item": 1322026
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1041076",
+      "itemName": "Dark Shouldermail",
+      "v83Monster": 4130101,
+      "v83Item": 1041089
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1061071",
+      "itemName": "Dark Shouldermail Pants",
+      "v83Monster": 4130101,
+      "v83Item": 1061088
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1092016",
+      "itemName": "Skull Shield",
+      "v83Monster": 4130101,
+      "v83Item": 1092004
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1002145",
+      "itemName": "Blue Guiltian",
+      "v83Monster": 4130101,
+      "v83Item": 1002152
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1072118",
+      "itemName": "Purple Goldwind Shoes",
+      "v83Monster": 4130101,
+      "v83Item": 1072142
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1041068",
+      "itemName": "White Piettra",
+      "v83Monster": 4130101,
+      "v83Item": 1041081
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1061065",
+      "itemName": "White Piettra Skirt",
+      "v83Monster": 4130101,
+      "v83Item": 1061080
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1072123",
+      "itemName": "Blue Steel-Tip Boots",
+      "v83Monster": 4130101,
+      "v83Item": 1072124
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1472016",
+      "itemName": "Adamantium Avarice",
+      "v83Monster": 4130101,
+      "v83Item": 1472016
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1002154",
+      "itemName": "Green Pilfer",
+      "v83Monster": 4130101,
+      "v83Item": 1002183
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1041080",
+      "itemName": "Brown Moon",
+      "v83Monster": 4130101,
+      "v83Item": 1041079
+    },
+    {
+      "monster": "41",
+      "monsterName": "Tortie",
+      "item": "1061075",
+      "itemName": "Brown Moon Pants",
+      "v83Monster": 4130101,
+      "v83Item": 1061078
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "4000045",
+      "itemName": "Wild Kargo Eye",
+      "v83Monster": 6230100,
+      "v83Item": 4000027
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 6230100,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "2000006",
+      "itemName": "Mana Elixir",
+      "v83Monster": 6230100,
+      "v83Item": 2000006
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "4010006",
+      "itemName": "Gold Ore",
+      "v83Monster": 6230100,
+      "v83Item": 4010006
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "4020008",
+      "itemName": "Black Crystal Ore",
+      "v83Monster": 6230100,
+      "v83Item": 4020008
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1102014",
+      "itemName": "Red Magic Cape",
+      "v83Monster": 6230100,
+      "v83Item": 1102016
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1072130",
+      "itemName": "Orihalcon Camel Boots",
+      "v83Monster": 6230100,
+      "v83Item": 1072148
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1442008",
+      "itemName": "Skylar",
+      "v83Monster": 6230100,
+      "v83Item": 1442010
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1072142",
+      "itemName": "Blue Carzen Boots",
+      "v83Monster": 6230100,
+      "v83Item": 1072154
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1041074",
+      "itemName": "Red Shouldermail",
+      "v83Monster": 6230100,
+      "v83Item": 1041087
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1082078",
+      "itemName": "Dark Clench",
+      "v83Monster": 6230100,
+      "v83Item": 1082061
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1051039",
+      "itemName": "Brown Requierre",
+      "v83Monster": 6230100,
+      "v83Item": 1051054
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1050030",
+      "itemName": "Orange Calas",
+      "v83Monster": 6230100,
+      "v83Item": 1050047
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1382006",
+      "itemName": "Thorns",
+      "v83Monster": 6230100,
+      "v83Item": 1382006
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1050041",
+      "itemName": "Red Tai",
+      "v83Monster": 6230100,
+      "v83Item": 1050060
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1082083",
+      "itemName": "Sephia Garner",
+      "v83Monster": 6230100,
+      "v83Item": 1082090
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1082094",
+      "itemName": "Blue Eyes",
+      "v83Monster": 6230100,
+      "v83Item": 1082106
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1040074",
+      "itemName": "Blue China",
+      "v83Monster": 6230100,
+      "v83Item": 1040095
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1082075",
+      "itemName": "Brown Moon Gloves",
+      "v83Monster": 6230100,
+      "v83Item": 1082066
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1472024",
+      "itemName": "Blood Gigantic",
+      "v83Monster": 6230100,
+      "v83Item": 1472023
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1041093",
+      "itemName": "Red Mystique",
+      "v83Monster": 6230100,
+      "v83Item": 1041103
+    },
+    {
+      "monster": "51",
+      "monsterName": "Wild Kargo",
+      "item": "1061088",
+      "itemName": "Red Mystique Pants",
+      "v83Monster": 6230100,
+      "v83Item": 1061102
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "4000039",
+      "itemName": "Medicine With Weird Vibes",
+      "v83Monster": 4230102,
+      "v83Item": 4000036
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 4230102,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 4230102,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "2000002",
+      "itemName": "White Potion",
+      "v83Monster": 4230102,
+      "v83Item": 2000002
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "2000004",
+      "itemName": "Elixir",
+      "v83Monster": 4230102,
+      "v83Item": 2000004
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "4006001",
+      "itemName": "The Summoning Rock",
+      "v83Monster": 4230102,
+      "v83Item": 4006001
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "4020000",
+      "itemName": "Garnet Ore",
+      "v83Monster": 4230102,
+      "v83Item": 4020000
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "4003019",
+      "itemName": "Dark Crystal Ore",
+      "v83Monster": 4230102,
+      "v83Item": 4004004
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "1302011",
+      "itemName": "Red Whip",
+      "v83Monster": 4230102,
+      "v83Item": 1302013
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "1002140",
+      "itemName": "Mithril Nordic Helm",
+      "v83Monster": 4230102,
+      "v83Item": 1002099
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "1060052",
+      "itemName": "White Jangoon Pants",
+      "v83Monster": 4230102,
+      "v83Item": 1060074
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "1040059",
+      "itemName": "Maroon Jangoon Armor",
+      "v83Monster": 4230102,
+      "v83Item": 1040085
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "1002168",
+      "itemName": "Flame Golden Circlet",
+      "v83Monster": 4230102,
+      "v83Item": 1002215
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "1072117",
+      "itemName": "Blue Goldwind Shoes",
+      "v83Monster": 4230102,
+      "v83Item": 1072141
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "1072100",
+      "itemName": "Red Moon Shoes",
+      "v83Monster": 4230102,
+      "v83Item": 1072114
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "1002174",
+      "itemName": "Blue Maro",
+      "v83Monster": 4230102,
+      "v83Item": 1002211
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "1002173",
+      "itemName": "Red Maro",
+      "v83Monster": 4230102,
+      "v83Item": 1002212
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "1082075",
+      "itemName": "Brown Moon Gloves",
+      "v83Monster": 4230102,
+      "v83Item": 1082066
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "1040057",
+      "itemName": "Green Knucklevest",
+      "v83Monster": 4230102,
+      "v83Item": 1040061
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "1060049",
+      "itemName": "Blue Knucklevest Pants",
+      "v83Monster": 4230102,
+      "v83Item": 1060050
+    },
+    {
+      "monster": "43",
+      "monsterName": "Wraith",
+      "item": "1002176",
+      "itemName": "Red Sonata",
+      "v83Monster": 4230102,
+      "v83Item": 1002207
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "4000033",
+      "itemName": "Cursed Doll",
+      "v83Monster": 4230101,
+      "v83Item": 4000031
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "4003002",
+      "itemName": "Stiff Feather",
+      "v83Monster": 4230101,
+      "v83Item": 4003004
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "2000002",
+      "itemName": "White Potion",
+      "v83Monster": 4230101,
+      "v83Item": 2000002
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 4230101,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "4010005",
+      "itemName": "Orihalcon Ore",
+      "v83Monster": 4230101,
+      "v83Item": 4010005
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "4020001",
+      "itemName": "Amethyst Ore",
+      "v83Monster": 4230101,
+      "v83Item": 4020001
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1302011",
+      "itemName": "Red Whip",
+      "v83Monster": 4230101,
+      "v83Item": 1302013
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1002012",
+      "itemName": "Red Bandana",
+      "v83Monster": 4230101,
+      "v83Item": 1002080
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1051011",
+      "itemName": "Emerald Fitted Mail",
+      "v83Monster": 4230101,
+      "v83Item": 1051001
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1041067",
+      "itemName": "Black Jangoon Armor",
+      "v83Monster": 4230101,
+      "v83Item": 1041086
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1061062",
+      "itemName": "Black Jangoon Skirt",
+      "v83Monster": 4230101,
+      "v83Item": 1061085
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1442005",
+      "itemName": "Axe Pole Arm",
+      "v83Monster": 4230101,
+      "v83Item": 1442003
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1442007",
+      "itemName": "The Nine Dragons",
+      "v83Monster": 4230101,
+      "v83Item": 1442005
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1002146",
+      "itemName": "Brown Guiltian",
+      "v83Monster": 4230101,
+      "v83Item": 1002151
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1382005",
+      "itemName": "Arc Staff",
+      "v83Monster": 4230101,
+      "v83Item": 1382001
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1050027",
+      "itemName": "Dark Starlight",
+      "v83Monster": 4230101,
+      "v83Item": 1050039
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1462007",
+      "itemName": "Rower",
+      "v83Monster": 4230101,
+      "v83Item": 1462007
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1462006",
+      "itemName": "Silver Crow",
+      "v83Monster": 4230101,
+      "v83Item": 1462006
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1040051",
+      "itemName": "Green Legolier",
+      "v83Monster": 4230101,
+      "v83Item": 1040074
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1060043",
+      "itemName": "Green Legolier Pants",
+      "v83Monster": 4230101,
+      "v83Item": 1060063
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1332015",
+      "itemName": "Shinkita",
+      "v83Monster": 4230101,
+      "v83Item": 1332003
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1472015",
+      "itemName": "Blood Avarice",
+      "v83Monster": 4230101,
+      "v83Item": 1472015
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1002156",
+      "itemName": "Dark Pilfer",
+      "v83Monster": 4230101,
+      "v83Item": 1002185
+    },
+    {
+      "monster": "38",
+      "monsterName": "Zombie Lupin",
+      "item": "1051015",
+      "itemName": "Purple Avenger",
+      "v83Monster": 4230101,
+      "v83Item": 1051009
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "4000015",
+      "itemName": "Firewood",
+      "v83Monster": 1130100,
+      "v83Item": 4000018
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 1130100,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 1130100,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "2070009",
+      "itemName": "Wooden Top",
+      "v83Monster": 1130100,
+      "v83Item": 2070009
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "4010005",
+      "itemName": "Orihalcon Ore",
+      "v83Monster": 1130100,
+      "v83Item": 4010005
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "4020004",
+      "itemName": "Opal Ore",
+      "v83Monster": 1130100,
+      "v83Item": 4020004
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "1002086",
+      "itemName": "Yellow Starry Bandana",
+      "v83Monster": 1130100,
+      "v83Item": 1002097
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "1402001",
+      "itemName": "Wooden Baseball Bat",
+      "v83Monster": 1130100,
+      "v83Item": 1402009
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "1032001",
+      "itemName": "Amethyst Earrings",
+      "v83Monster": 1130100,
+      "v83Item": 1032003
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "1092012",
+      "itemName": "Battle Shield",
+      "v83Monster": 1130100,
+      "v83Item": 1092007
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "1372005",
+      "itemName": "Wizard Wand",
+      "v83Monster": 1130100,
+      "v83Item": 1372001
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "1060018",
+      "itemName": "White Split Pants",
+      "v83Monster": 1130100,
+      "v83Item": 1060015
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "1040024",
+      "itemName": "Orange Split Piece",
+      "v83Monster": 1130100,
+      "v83Item": 1040019
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "1382003",
+      "itemName": "Old Wooden Staff",
+      "v83Monster": 1130100,
+      "v83Item": 1382004
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "1002066",
+      "itemName": "Blue Robin Hat",
+      "v83Monster": 1130100,
+      "v83Item": 1002118
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "1041024",
+      "itemName": "Brown Nightshift",
+      "v83Monster": 1130100,
+      "v83Item": 1041045
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "1061020",
+      "itemName": "Brown Nightshift Pants",
+      "v83Monster": 1130100,
+      "v83Item": 1061038
+    },
+    {
+      "monster": "15",
+      "monsterName": "Axe Stump",
+      "item": "1051014",
+      "itemName": "Blue Avenger",
+      "v83Monster": 1130100,
+      "v83Item": 1051008
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "4000016",
+      "itemName": "Blue Mushroom Cap",
+      "v83Monster": 2220100,
+      "v83Item": 4000009
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 2220100,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "2000001",
+      "itemName": "Orange Potion",
+      "v83Monster": 2220100,
+      "v83Item": 2000001
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 2220100,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "2002001",
+      "itemName": "Magic Potion",
+      "v83Monster": 2220100,
+      "v83Item": 2002002
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "4010006",
+      "itemName": "Gold Ore",
+      "v83Monster": 2220100,
+      "v83Item": 4010006
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "4020005",
+      "itemName": "Sapphire Ore",
+      "v83Monster": 2220100,
+      "v83Item": 4020005
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "1332003",
+      "itemName": "Field Dagger",
+      "v83Monster": 2220100,
+      "v83Item": 1332006
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "1051000",
+      "itemName": "Steel Fitted Mail",
+      "v83Monster": 2220100,
+      "v83Item": 1051000
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "1412001",
+      "itemName": "Iron Axe",
+      "v83Monster": 2220100,
+      "v83Item": 1412002
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "1040021",
+      "itemName": "Blue Sergeant",
+      "v83Monster": 2220100,
+      "v83Item": 1040012
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "1060016",
+      "itemName": "Steel Sergeant Kilt",
+      "v83Monster": 2220100,
+      "v83Item": 1060010
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "1442004",
+      "itemName": "Mithril Pole Arm",
+      "v83Monster": 2220100,
+      "v83Item": 1442001
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "1041032",
+      "itemName": "Red Shivermail",
+      "v83Monster": 2220100,
+      "v83Item": 1041027
+    },
+    {
+      "monster": "16",
+      "monsterName": "Blue Mushroom",
+      "item": "1002068",
+      "itemName": "Red Loosecap",
+      "v83Monster": 2220100,
+      "v83Item": 1002127
+    },
+    {
+      "monster": "3",
+      "monsterName": "Blue Snail",
+      "item": "4000002",
+      "itemName": "Blue Snail Shell",
+      "v83Monster": 100101,
+      "v83Item": 4000000
+    },
+    {
+      "monster": "3",
+      "monsterName": "Blue Snail",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 100101,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "3",
+      "monsterName": "Blue Snail",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 100101,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "3",
+      "monsterName": "Blue Snail",
+      "item": "4020004",
+      "itemName": "Opal Ore",
+      "v83Monster": 100101,
+      "v83Item": 4020004
+    },
+    {
+      "monster": "3",
+      "monsterName": "Blue Snail",
+      "item": "4020001",
+      "itemName": "Amethyst Ore",
+      "v83Monster": 100101,
+      "v83Item": 4020001
+    },
+    {
+      "monster": "3",
+      "monsterName": "Blue Snail",
+      "item": "4010004",
+      "itemName": "Silver Ore",
+      "v83Monster": 100101,
+      "v83Item": 4010004
+    },
+    {
+      "monster": "3",
+      "monsterName": "Blue Snail",
+      "item": "1040003",
+      "itemName": "Undershirt",
+      "v83Monster": 100101,
+      "v83Item": 1040006
+    },
+    {
+      "monster": "3",
+      "monsterName": "Blue Snail",
+      "item": "1060011",
+      "itemName": "Grey Thick Sweat Pants",
+      "v83Monster": 100101,
+      "v83Item": 1060004
+    },
+    {
+      "monster": "3",
+      "monsterName": "Blue Snail",
+      "item": "1040013",
+      "itemName": "Blue One-lined T-Shirt",
+      "v83Monster": 100101,
+      "v83Item": 1040013
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 1210103,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 1210103,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "4006000",
+      "itemName": "The Magic Rock",
+      "v83Monster": 1210103,
+      "v83Item": 4006000
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "4020005",
+      "itemName": "Sapphire Ore",
+      "v83Monster": 1210103,
+      "v83Item": 4020005
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "4010002",
+      "itemName": "Mithril Ore",
+      "v83Monster": 1210103,
+      "v83Item": 4010002
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "1432002",
+      "itemName": "Fish Spear",
+      "v83Monster": 1210103,
+      "v83Item": 1432008
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "1322018",
+      "itemName": "Blue Flowery Tube",
+      "v83Monster": 1210103,
+      "v83Item": 1322023
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "1412001",
+      "itemName": "Iron Axe",
+      "v83Monster": 1210103,
+      "v83Item": 1412002
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "1432000",
+      "itemName": "Spear",
+      "v83Monster": 1210103,
+      "v83Item": 1432000
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "1002021",
+      "itemName": "Red Apprentice Hat",
+      "v83Monster": 1210103,
+      "v83Item": 1002075
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "1041021",
+      "itemName": "Yellow Able Armor",
+      "v83Monster": 1210103,
+      "v83Item": 1041062
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "1061017",
+      "itemName": "Brown Able Skirt",
+      "v83Monster": 1210103,
+      "v83Item": 1061058
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "1040019",
+      "itemName": "Blue Nightshift",
+      "v83Monster": 1210103,
+      "v83Item": 1040035
+    },
+    {
+      "monster": "14",
+      "monsterName": "Bubbling",
+      "item": "1060014",
+      "itemName": "Blue Nightshift Pants",
+      "v83Monster": 1210103,
+      "v83Item": 1060025
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "4000027",
+      "itemName": "Curse Eye Tail",
+      "v83Monster": 3230100,
+      "v83Item": 4000013
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 3230100,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "2000002",
+      "itemName": "White Potion",
+      "v83Monster": 3230100,
+      "v83Item": 2000002
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 3230100,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "2002002",
+      "itemName": "Sniper Potion",
+      "v83Monster": 3230100,
+      "v83Item": 2002005
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "4010005",
+      "itemName": "Orihalcon Ore",
+      "v83Monster": 3230100,
+      "v83Item": 4010005
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "4020006",
+      "itemName": "Topaz Ore",
+      "v83Monster": 3230100,
+      "v83Item": 4020006
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "601",
+      "itemName": "Lollipop",
+      "v83Monster": 3230100,
+      "v83Item": 1322003
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "1002157",
+      "itemName": "Red Duke",
+      "v83Monster": 3230100,
+      "v83Item": 1002025
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "1040040",
+      "itemName": "Red Hwarang Shirt",
+      "v83Monster": 3230100,
+      "v83Item": 1040021
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "1432004",
+      "itemName": "Nakamaki",
+      "v83Monster": 3230100,
+      "v83Item": 1432003
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "1060032",
+      "itemName": "Black Martial Arts Pants",
+      "v83Monster": 3230100,
+      "v83Item": 1060016
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "1002129",
+      "itemName": "Green Matty",
+      "v83Monster": 3230100,
+      "v83Item": 1002143
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "1051019",
+      "itemName": "Blue Moonlight",
+      "v83Monster": 3230100,
+      "v83Item": 1051025
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "1050029",
+      "itemName": "Blue Calas",
+      "v83Monster": 3230100,
+      "v83Item": 1050045
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "1040062",
+      "itemName": "Brown Piette",
+      "v83Monster": 3230100,
+      "v83Item": 1040079
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "1060054",
+      "itemName": "Brown Piette Pants",
+      "v83Monster": 3230100,
+      "v83Item": 1060069
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "1002137",
+      "itemName": "Dark Burgler",
+      "v83Monster": 3230100,
+      "v83Item": 1002180
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "1040058",
+      "itemName": "Black Knucklevest",
+      "v83Monster": 3230100,
+      "v83Item": 1040063
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "1060050",
+      "itemName": "Black Knucklevest Pants",
+      "v83Monster": 3230100,
+      "v83Item": 1060052
+    },
+    {
+      "monster": "31",
+      "monsterName": "Curse Eye",
+      "item": "1061067",
+      "itemName": "Purple Shadow Pants",
+      "v83Monster": 3230100,
+      "v83Item": 1061069
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "4000015",
+      "itemName": "Firewood",
+      "v83Monster": 2130100,
+      "v83Item": 4000018
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "2000001",
+      "itemName": "Orange Potion",
+      "v83Monster": 2130100,
+      "v83Item": 2000001
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 2130100,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "2012002",
+      "itemName": "Sap of Ancient Tree",
+      "v83Monster": 2130100,
+      "v83Item": 2012002
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "2070009",
+      "itemName": "Wooden Top",
+      "v83Monster": 2130100,
+      "v83Item": 2070009
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "4006001",
+      "itemName": "The Summoning Rock",
+      "v83Monster": 2130100,
+      "v83Item": 4006001
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "4020007",
+      "itemName": "Diamond Ore",
+      "v83Monster": 2130100,
+      "v83Item": 4020007
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "1051001",
+      "itemName": "Brown Doroness Robe",
+      "v83Monster": 2130100,
+      "v83Item": 1051003
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "1041033",
+      "itemName": "Purple Shivermail",
+      "v83Monster": 2130100,
+      "v83Item": 1041028
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "1061028",
+      "itemName": "Purple Shivermail Skirt",
+      "v83Monster": 2130100,
+      "v83Item": 1061026
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "1472006",
+      "itemName": "Adamantium Igor",
+      "v83Monster": 2130100,
+      "v83Item": 1472006
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "1472009",
+      "itemName": "Mithril Guards",
+      "v83Monster": 2130100,
+      "v83Item": 1472009
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "1072057",
+      "itemName": "Black Lappy Boots",
+      "v83Monster": 2130100,
+      "v83Item": 1072087
+    },
+    {
+      "monster": "20",
+      "monsterName": "Dark Axe Stump",
+      "item": "1472012",
+      "itemName": "Silver Guardian",
+      "v83Monster": 2130100,
+      "v83Item": 1472012
+    },
+    {
+      "monster": "11",
+      "monsterName": "Dark Stump",
+      "item": "484",
+      "itemName": "Omok Table",
+      "v83Monster": 1110101,
+      "v83Item": 4030009
+    },
+    {
+      "monster": "11",
+      "monsterName": "Dark Stump",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 1110101,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "11",
+      "monsterName": "Dark Stump",
+      "item": "4020000",
+      "itemName": "Garnet Ore",
+      "v83Monster": 1110101,
+      "v83Item": 4020000
+    },
+    {
+      "monster": "11",
+      "monsterName": "Dark Stump",
+      "item": "1092000",
+      "itemName": "Stolen Fence",
+      "v83Monster": 1110101,
+      "v83Item": 1092003
+    },
+    {
+      "monster": "11",
+      "monsterName": "Dark Stump",
+      "item": "1442000",
+      "itemName": "Pole Arm",
+      "v83Monster": 1110101,
+      "v83Item": 1442000
+    },
+    {
+      "monster": "11",
+      "monsterName": "Dark Stump",
+      "item": "1041017",
+      "itemName": "Green Arianne",
+      "v83Monster": 1110101,
+      "v83Item": 1041018
+    },
+    {
+      "monster": "11",
+      "monsterName": "Dark Stump",
+      "item": "1061013",
+      "itemName": "Green Arianne Skirt",
+      "v83Monster": 1110101,
+      "v83Item": 1061013
+    },
+    {
+      "monster": "11",
+      "monsterName": "Dark Stump",
+      "item": "1382000",
+      "itemName": "Wooden Staff",
+      "v83Monster": 1110101,
+      "v83Item": 1382000
+    },
+    {
+      "monster": "11",
+      "monsterName": "Dark Stump",
+      "item": "1041010",
+      "itemName": "Yellow Avelin",
+      "v83Monster": 1110101,
+      "v83Item": 1041061
+    },
+    {
+      "monster": "11",
+      "monsterName": "Dark Stump",
+      "item": "1061008",
+      "itemName": "Yellow Avelin Skirt",
+      "v83Monster": 1110101,
+      "v83Item": 1061057
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "4000022",
+      "itemName": "Evil Eye Tail",
+      "v83Monster": 2230100,
+      "v83Item": 4000007
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 2230100,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "2000001",
+      "itemName": "Orange Potion",
+      "v83Monster": 2230100,
+      "v83Item": 2000001
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 2230100,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "2002004",
+      "itemName": "Speed Potion",
+      "v83Monster": 2230100,
+      "v83Item": 2002001
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "4010004",
+      "itemName": "Silver Ore",
+      "v83Monster": 2230100,
+      "v83Item": 4010004
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "4020005",
+      "itemName": "Sapphire Ore",
+      "v83Monster": 2230100,
+      "v83Item": 4020005
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "1032003",
+      "itemName": "Yellow Square",
+      "v83Monster": 2230100,
+      "v83Item": 1032009
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "1051007",
+      "itemName": "Blue Engrit",
+      "v83Monster": 2230100,
+      "v83Item": 1051012
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "1302010",
+      "itemName": "Cutlus",
+      "v83Monster": 2230100,
+      "v83Item": 1302004
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "1002121",
+      "itemName": "Great Red Helmet",
+      "v83Monster": 2230100,
+      "v83Item": 1002047
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "1050018",
+      "itemName": "White Crusader Chainmail",
+      "v83Monster": 2230100,
+      "v83Item": 1050000
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "1050013",
+      "itemName": "White Wizard Robe",
+      "v83Monster": 2230100,
+      "v83Item": 1050026
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "1040033",
+      "itemName": "Green Bennis Chainmail",
+      "v83Monster": 2230100,
+      "v83Item": 1040022
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "1041046",
+      "itemName": "Gold Sneak",
+      "v83Monster": 2230100,
+      "v83Item": 1041060
+    },
+    {
+      "monster": "23",
+      "monsterName": "Evil Eye",
+      "item": "1061040",
+      "itemName": "Gold Sneak Pants",
+      "v83Monster": 2230100,
+      "v83Item": 1061056
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "4000013",
+      "itemName": "Green Mushroom Cap",
+      "v83Monster": 1110100,
+      "v83Item": 4000012
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 1110100,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 1110100,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "4020003",
+      "itemName": "Emerald Ore",
+      "v83Monster": 1110100,
+      "v83Item": 4020003
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "4010005",
+      "itemName": "Orihalcon Ore",
+      "v83Monster": 1110100,
+      "v83Item": 4010005
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "4010004",
+      "itemName": "Silver Ore",
+      "v83Monster": 1110100,
+      "v83Item": 4010004
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1092002",
+      "itemName": "Pan Lid",
+      "v83Monster": 1110100,
+      "v83Item": 1092008
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1412001",
+      "itemName": "Iron Axe",
+      "v83Monster": 1110100,
+      "v83Item": 1412002
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1322003",
+      "itemName": "Mace",
+      "v83Monster": 1110100,
+      "v83Item": 1322000
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1432005",
+      "itemName": "Zeco",
+      "v83Monster": 1110100,
+      "v83Item": 1432005
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1041016",
+      "itemName": "Purple Arianne",
+      "v83Monster": 1110100,
+      "v83Item": 1041017
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1061012",
+      "itemName": "Purple Arianne Skirt",
+      "v83Monster": 1110100,
+      "v83Item": 1061012
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1041017",
+      "itemName": "Green Arianne",
+      "v83Monster": 1110100,
+      "v83Item": 1041018
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1002129",
+      "itemName": "Green Matty",
+      "v83Monster": 1110100,
+      "v83Item": 1002143
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1462001",
+      "itemName": "Battle Crossbow",
+      "v83Monster": 1110100,
+      "v83Item": 1462002
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1452001",
+      "itemName": "Composite Bow",
+      "v83Monster": 1110100,
+      "v83Item": 1452003
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1041022",
+      "itemName": "Grey Able Armor",
+      "v83Monster": 1110100,
+      "v83Item": 1041063
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1061018",
+      "itemName": "Grey Able Skirt",
+      "v83Monster": 1110100,
+      "v83Item": 1061059
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1041023",
+      "itemName": "Red Nightshift",
+      "v83Monster": 1110100,
+      "v83Item": 1041044
+    },
+    {
+      "monster": "13",
+      "monsterName": "Green Mushroom",
+      "item": "1061019",
+      "itemName": "Red Nightshift Pants",
+      "v83Monster": 1110100,
+      "v83Item": 1061037
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "4000019",
+      "itemName": "Horny Mushroom Cap",
+      "v83Monster": 2110200,
+      "v83Item": 4000015
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 2110200,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 2110200,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "2000001",
+      "itemName": "Orange Potion",
+      "v83Monster": 2110200,
+      "v83Item": 2000001
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "4020006",
+      "itemName": "Topaz Ore",
+      "v83Monster": 2110200,
+      "v83Item": 4020006
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "4010000",
+      "itemName": "Bronze Ore",
+      "v83Monster": 2110200,
+      "v83Item": 4010000
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1060001",
+      "itemName": "Blue Jean Shorts",
+      "v83Monster": 2110200,
+      "v83Item": 1060002
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1050004",
+      "itemName": "Red Kendo Robe",
+      "v83Monster": 2110200,
+      "v83Item": 1050006
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1002087",
+      "itemName": "Iron Burgernet Helm",
+      "v83Monster": 2110200,
+      "v83Item": 1002005
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1442004",
+      "itemName": "Mithril Pole Arm",
+      "v83Monster": 2110200,
+      "v83Item": 1442001
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1082002",
+      "itemName": "Steel Fingerless Gloves",
+      "v83Monster": 2110200,
+      "v83Item": 1082000
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1302010",
+      "itemName": "Cutlus",
+      "v83Monster": 2110200,
+      "v83Item": 1302004
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1092003",
+      "itemName": "Steel Shield",
+      "v83Monster": 2110200,
+      "v83Item": 1092000
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1412001",
+      "itemName": "Iron Axe",
+      "v83Monster": 2110200,
+      "v83Item": 1412002
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1002106",
+      "itemName": "Brown Jester",
+      "v83Monster": 2110200,
+      "v83Item": 1002038
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1002126",
+      "itemName": "Blue Pole-Feather Hat",
+      "v83Monster": 2110200,
+      "v83Item": 1002138
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1041020",
+      "itemName": "Green Able Armor",
+      "v83Monster": 2110200,
+      "v83Item": 1041008
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1061016",
+      "itemName": "Green Able Armor Skirt",
+      "v83Monster": 2110200,
+      "v83Item": 1061006
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1462004",
+      "itemName": "Eagle Crow",
+      "v83Monster": 2110200,
+      "v83Item": 1462004
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1040029",
+      "itemName": "Black Pao",
+      "v83Monster": 2110200,
+      "v83Item": 1040044
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1002153",
+      "itemName": "Blue Pilfer",
+      "v83Monster": 2110200,
+      "v83Item": 1002182
+    },
+    {
+      "monster": "19",
+      "monsterName": "Horny Mushroom",
+      "item": "1060026",
+      "itemName": "Brown Sneak Pants",
+      "v83Monster": 2110200,
+      "v83Item": 1060038
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "2000002",
+      "itemName": "White Potion",
+      "v83Monster": 4230103,
+      "v83Item": 2000002
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 4230103,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "2000004",
+      "itemName": "Elixir",
+      "v83Monster": 4230103,
+      "v83Item": 2000004
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "4010003",
+      "itemName": "Adamantium Ore",
+      "v83Monster": 4230103,
+      "v83Item": 4010003
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "4020005",
+      "itemName": "Sapphire Ore",
+      "v83Monster": 4230103,
+      "v83Item": 4020005
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1092015",
+      "itemName": "Adamantium Tower Shield",
+      "v83Monster": 4230103,
+      "v83Item": 1092014
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1322017",
+      "itemName": "Knuckle Mace",
+      "v83Monster": 4230103,
+      "v83Item": 1322017
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1312006",
+      "itemName": "Dankke",
+      "v83Monster": 4230103,
+      "v83Item": 1312006
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1442004",
+      "itemName": "Mithril Pole Arm",
+      "v83Monster": 4230103,
+      "v83Item": 1442001
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1072100",
+      "itemName": "Red Moon Shoes",
+      "v83Monster": 4230103,
+      "v83Item": 1072114
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1051024",
+      "itemName": "Orange Calaf",
+      "v83Monster": 4230103,
+      "v83Item": 1051034
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1002146",
+      "itemName": "Brown Guiltian",
+      "v83Monster": 4230103,
+      "v83Item": 1002151
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1050034",
+      "itemName": "Blue-Lined Kismet",
+      "v83Monster": 4230103,
+      "v83Item": 1050052
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1050033",
+      "itemName": "Red-Lined Kismet",
+      "v83Monster": 4230103,
+      "v83Item": 1050051
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1072107",
+      "itemName": "Blue Pierre Shoes",
+      "v83Monster": 4230103,
+      "v83Item": 1072121
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1472019",
+      "itemName": "Blood Slain",
+      "v83Monster": 4230103,
+      "v83Item": 1472019
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1082062",
+      "itemName": "Gold Cleave",
+      "v83Monster": 4230103,
+      "v83Item": 1082076
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1332011",
+      "itemName": "Halfmoon Zamadar",
+      "v83Monster": 4230103,
+      "v83Item": 1332001
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1002135",
+      "itemName": "Brown Burgler",
+      "v83Monster": 4230103,
+      "v83Item": 1002179
+    },
+    {
+      "monster": "24",
+      "monsterName": "Iron Hog",
+      "item": "1472009",
+      "itemName": "Mithril Guards",
+      "v83Monster": 4230103,
+      "v83Item": 1472009
+    },
+    {
+      "monster": "18",
+      "monsterName": "Jr. Necki",
+      "item": "4000018",
+      "itemName": "Jr. Necki Skin",
+      "v83Monster": 2130103,
+      "v83Item": 4000034
+    },
+    {
+      "monster": "18",
+      "monsterName": "Jr. Necki",
+      "item": "2000001",
+      "itemName": "Orange Potion",
+      "v83Monster": 2130103,
+      "v83Item": 2000001
+    },
+    {
+      "monster": "18",
+      "monsterName": "Jr. Necki",
+      "item": "2010004",
+      "itemName": "Orange",
+      "v83Monster": 2130103,
+      "v83Item": 2010003
+    },
+    {
+      "monster": "18",
+      "monsterName": "Jr. Necki",
+      "item": "4010002",
+      "itemName": "Mithril Ore",
+      "v83Monster": 2130103,
+      "v83Item": 4010002
+    },
+    {
+      "monster": "18",
+      "monsterName": "Jr. Necki",
+      "item": "4020006",
+      "itemName": "Topaz Ore",
+      "v83Monster": 2130103,
+      "v83Item": 4020006
+    },
+    {
+      "monster": "18",
+      "monsterName": "Jr. Necki",
+      "item": "1050003",
+      "itemName": "Blue Kendo Robe",
+      "v83Monster": 2130103,
+      "v83Item": 1050005
+    },
+    {
+      "monster": "18",
+      "monsterName": "Jr. Necki",
+      "item": "1332005",
+      "itemName": "Coconut Knife",
+      "v83Monster": 2130103,
+      "v83Item": 1332008
+    },
+    {
+      "monster": "18",
+      "monsterName": "Jr. Necki",
+      "item": "1041027",
+      "itemName": "Brown Lamelle",
+      "v83Monster": 2130103,
+      "v83Item": 1041021
+    },
+    {
+      "monster": "18",
+      "monsterName": "Jr. Necki",
+      "item": "1061023",
+      "itemName": "Brown Ramel Skirt",
+      "v83Monster": 2130103,
+      "v83Item": 1061018
+    },
+    {
+      "monster": "18",
+      "monsterName": "Jr. Necki",
+      "item": "1002078",
+      "itemName": "Steel Sharp Helm",
+      "v83Monster": 2130103,
+      "v83Item": 1002027
+    },
+    {
+      "monster": "18",
+      "monsterName": "Jr. Necki",
+      "item": "1041028",
+      "itemName": "Purple Split",
+      "v83Monster": 2130103,
+      "v83Item": 1041031
+    },
+    {
+      "monster": "18",
+      "monsterName": "Jr. Necki",
+      "item": "1061024",
+      "itemName": "White Split Skirt",
+      "v83Monster": 2130103,
+      "v83Item": 1061028
+    },
+    {
+      "monster": "18",
+      "monsterName": "Jr. Necki",
+      "item": "1072053",
+      "itemName": "Red Jack Boots",
+      "v83Monster": 2130103,
+      "v83Item": 1072069
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "4000025",
+      "itemName": "Ligator Skin",
+      "v83Monster": 3110100,
+      "v83Item": 4000032
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "2000002",
+      "itemName": "White Potion",
+      "v83Monster": 3110100,
+      "v83Item": 2000002
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 3110100,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "2000004",
+      "itemName": "Elixir",
+      "v83Monster": 3110100,
+      "v83Item": 2000004
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "4006000",
+      "itemName": "The Magic Rock",
+      "v83Monster": 3110100,
+      "v83Item": 4006000
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "4010002",
+      "itemName": "Mithril Ore",
+      "v83Monster": 3110100,
+      "v83Item": 4010002
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "4020002",
+      "itemName": "Aquamarine Ore",
+      "v83Monster": 3110100,
+      "v83Item": 4020002
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "1322010",
+      "itemName": "Plunger",
+      "v83Monster": 3110100,
+      "v83Item": 1322009
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "1432005",
+      "itemName": "Zeco",
+      "v83Monster": 3110100,
+      "v83Item": 1432005
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "1422004",
+      "itemName": "Mithril Maul",
+      "v83Monster": 3110100,
+      "v83Item": 1422001
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "1092013",
+      "itemName": "Steel Tower Shield",
+      "v83Monster": 3110100,
+      "v83Item": 1092012
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "1072086",
+      "itemName": "Mithril Trigger",
+      "v83Monster": 3110100,
+      "v83Item": 1072112
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "1051008",
+      "itemName": "Yellow Engrit",
+      "v83Monster": 3110100,
+      "v83Item": 1051013
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "1041057",
+      "itemName": "Red Amoria Top",
+      "v83Monster": 3110100,
+      "v83Item": 1041051
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "1061052",
+      "itemName": "Red Amoria Skirt",
+      "v83Monster": 3110100,
+      "v83Item": 1061047
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "1082035",
+      "itemName": "Green Marker",
+      "v83Monster": 3110100,
+      "v83Item": 1082049
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "1082050",
+      "itemName": "Steel Arbion",
+      "v83Monster": 3110100,
+      "v83Item": 1082046
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "1061075",
+      "itemName": "Brown Moon Pants",
+      "v83Monster": 3110100,
+      "v83Item": 1061078
+    },
+    {
+      "monster": "29",
+      "monsterName": "Ligator",
+      "item": "1332012",
+      "itemName": "Gephart",
+      "v83Monster": 3110100,
+      "v83Item": 1332014
+    },
+    {
+      "monster": "12",
+      "monsterName": "Octopus",
+      "item": "4000012",
+      "itemName": "Octopus Leg",
+      "v83Monster": 1120100,
+      "v83Item": 4000006
+    },
+    {
+      "monster": "12",
+      "monsterName": "Octopus",
+      "item": "492",
+      "itemName": "Omok Piece: Octopus",
+      "v83Monster": 1120100,
+      "v83Item": 4030010
+    },
+    {
+      "monster": "12",
+      "monsterName": "Octopus",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 1120100,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "12",
+      "monsterName": "Octopus",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 1120100,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "12",
+      "monsterName": "Octopus",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 1120100,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "12",
+      "monsterName": "Octopus",
+      "item": "4010003",
+      "itemName": "Adamantium Ore",
+      "v83Monster": 1120100,
+      "v83Item": 4010003
+    },
+    {
+      "monster": "12",
+      "monsterName": "Octopus",
+      "item": "4020002",
+      "itemName": "Aquamarine Ore",
+      "v83Monster": 1120100,
+      "v83Item": 4020002
+    },
+    {
+      "monster": "12",
+      "monsterName": "Octopus",
+      "item": "1032000",
+      "itemName": "Single Earring",
+      "v83Monster": 1120100,
+      "v83Item": 1032001
+    },
+    {
+      "monster": "12",
+      "monsterName": "Octopus",
+      "item": "1040015",
+      "itemName": "Brown Corporal",
+      "v83Monster": 1120100,
+      "v83Item": 1040037
+    },
+    {
+      "monster": "12",
+      "monsterName": "Octopus",
+      "item": "1060012",
+      "itemName": "Brown Corporal Pants",
+      "v83Monster": 1120100,
+      "v83Item": 1060027
+    },
+    {
+      "monster": "12",
+      "monsterName": "Octopus",
+      "item": "1092012",
+      "itemName": "Battle Shield",
+      "v83Monster": 1120100,
+      "v83Item": 1092007
+    },
+    {
+      "monster": "12",
+      "monsterName": "Octopus",
+      "item": "1092003",
+      "itemName": "Steel Shield",
+      "v83Monster": 1120100,
+      "v83Item": 1092000
+    },
+    {
+      "monster": "12",
+      "monsterName": "Octopus",
+      "item": "1061015",
+      "itemName": "Yellow Arianne Skirt",
+      "v83Monster": 1120100,
+      "v83Item": 1061022
+    },
+    {
+      "monster": "9",
+      "monsterName": "Orange Mushroom",
+      "item": "4000009",
+      "itemName": "Orange Mushroom Cap",
+      "v83Monster": 1210102,
+      "v83Item": 4000001
+    },
+    {
+      "monster": "9",
+      "monsterName": "Orange Mushroom",
+      "item": "486",
+      "itemName": "Omok Piece: Mushroom",
+      "v83Monster": 1210102,
+      "v83Item": 4030001
+    },
+    {
+      "monster": "9",
+      "monsterName": "Orange Mushroom",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 1210102,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "9",
+      "monsterName": "Orange Mushroom",
+      "item": "4010000",
+      "itemName": "Bronze Ore",
+      "v83Monster": 1210102,
+      "v83Item": 4010000
+    },
+    {
+      "monster": "9",
+      "monsterName": "Orange Mushroom",
+      "item": "4020007",
+      "itemName": "Diamond Ore",
+      "v83Monster": 1210102,
+      "v83Item": 4020007
+    },
+    {
+      "monster": "9",
+      "monsterName": "Orange Mushroom",
+      "item": "1312001",
+      "itemName": "Double Axe",
+      "v83Monster": 1210102,
+      "v83Item": 1312000
+    },
+    {
+      "monster": "9",
+      "monsterName": "Orange Mushroom",
+      "item": "1072011",
+      "itemName": "White Gomushin",
+      "v83Monster": 1210102,
+      "v83Item": 1072004
+    },
+    {
+      "monster": "9",
+      "monsterName": "Orange Mushroom",
+      "item": "1432000",
+      "itemName": "Spear",
+      "v83Monster": 1210102,
+      "v83Item": 1432000
+    },
+    {
+      "monster": "9",
+      "monsterName": "Orange Mushroom",
+      "item": "1002016",
+      "itemName": "Bronze Koif",
+      "v83Monster": 1210102,
+      "v83Item": 1002043
+    },
+    {
+      "monster": "9",
+      "monsterName": "Orange Mushroom",
+      "item": "1072008",
+      "itemName": "Brown Hard Leather Boots",
+      "v83Monster": 1210102,
+      "v83Item": 1072015
+    },
+    {
+      "monster": "9",
+      "monsterName": "Orange Mushroom",
+      "item": "1072021",
+      "itemName": "Red Ninja Sandals",
+      "v83Monster": 1210102,
+      "v83Item": 1072031
+    },
+    {
+      "monster": "8",
+      "monsterName": "Pig",
+      "item": "4000049",
+      "itemName": "Leather",
+      "v83Monster": 1210100,
+      "v83Item": 4000021
+    },
+    {
+      "monster": "8",
+      "monsterName": "Pig",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 1210100,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "8",
+      "monsterName": "Pig",
+      "item": "489",
+      "itemName": "Omok Piece: Pig",
+      "v83Monster": 1210100,
+      "v83Item": 4030011
+    },
+    {
+      "monster": "8",
+      "monsterName": "Pig",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 1210100,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "8",
+      "monsterName": "Pig",
+      "item": "4010006",
+      "itemName": "Gold Ore",
+      "v83Monster": 1210100,
+      "v83Item": 4010006
+    },
+    {
+      "monster": "8",
+      "monsterName": "Pig",
+      "item": "4020006",
+      "itemName": "Topaz Ore",
+      "v83Monster": 1210100,
+      "v83Item": 4020006
+    },
+    {
+      "monster": "8",
+      "monsterName": "Pig",
+      "item": "1002000",
+      "itemName": "Brown Skullcap",
+      "v83Monster": 1210100,
+      "v83Item": 1002008
+    },
+    {
+      "monster": "8",
+      "monsterName": "Pig",
+      "item": "1422000",
+      "itemName": "Wooden Mallet",
+      "v83Monster": 1210100,
+      "v83Item": 1422000
+    },
+    {
+      "monster": "8",
+      "monsterName": "Pig",
+      "item": "1041005",
+      "itemName": "Orange Lolica Armor",
+      "v83Monster": 1210100,
+      "v83Item": 1041014
+    },
+    {
+      "monster": "8",
+      "monsterName": "Pig",
+      "item": "1062003",
+      "itemName": "Brown Hard Leather Pants",
+      "v83Monster": 1210100,
+      "v83Item": 1062002
+    },
+    {
+      "monster": "8",
+      "monsterName": "Pig",
+      "item": "1040020",
+      "itemName": "Dark Nightshift",
+      "v83Monster": 1210100,
+      "v83Item": 1040034
+    },
+    {
+      "monster": "8",
+      "monsterName": "Pig",
+      "item": "1472000",
+      "itemName": "Garnier",
+      "v83Monster": 1210100,
+      "v83Item": 1472000
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "4000004",
+      "itemName": "Red Snail Shell",
+      "v83Monster": 130101,
+      "v83Item": 4000016
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 130101,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "4020004",
+      "itemName": "Opal Ore",
+      "v83Monster": 130101,
+      "v83Item": 4020004
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "4010004",
+      "itemName": "Silver Ore",
+      "v83Monster": 130101,
+      "v83Item": 4010004
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "1302000",
+      "itemName": "Sword",
+      "v83Monster": 130101,
+      "v83Item": 1302000
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "1322002",
+      "itemName": "Leather Purse",
+      "v83Monster": 130101,
+      "v83Item": 1322007
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "1372002",
+      "itemName": "Metal Wand",
+      "v83Monster": 130101,
+      "v83Item": 1372002
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "1032001",
+      "itemName": "Amethyst Earrings",
+      "v83Monster": 130101,
+      "v83Item": 1032003
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "1072000",
+      "itemName": "Leather Sandals",
+      "v83Monster": 130101,
+      "v83Item": 1072005
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "1041002",
+      "itemName": "Yellow T-Shirt",
+      "v83Monster": 130101,
+      "v83Item": 1041006
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "1402000",
+      "itemName": "Wooden Sword",
+      "v83Monster": 130101,
+      "v83Item": 1402001
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "1072019",
+      "itemName": "Brown Woodsman Boots",
+      "v83Monster": 130101,
+      "v83Item": 1072060
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "1082005",
+      "itemName": "Brown Duo",
+      "v83Monster": 130101,
+      "v83Item": 1082029
+    },
+    {
+      "monster": "5",
+      "monsterName": "Red Snail",
+      "item": "1060008",
+      "itemName": "Red Cloth Pants",
+      "v83Monster": 130101,
+      "v83Item": 1060022
+    },
+    {
+      "monster": "10",
+      "monsterName": "Ribbon Pig",
+      "item": "4000049",
+      "itemName": "Leather",
+      "v83Monster": 1210101,
+      "v83Item": 4000021
+    },
+    {
+      "monster": "10",
+      "monsterName": "Ribbon Pig",
+      "item": "4003002",
+      "itemName": "Stiff Feather",
+      "v83Monster": 1210101,
+      "v83Item": 4003004
+    },
+    {
+      "monster": "10",
+      "monsterName": "Ribbon Pig",
+      "item": "4031045",
+      "itemName": "Monster Card",
+      "v83Monster": 1210101,
+      "v83Item": 4030012
+    },
+    {
+      "monster": "10",
+      "monsterName": "Ribbon Pig",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 1210101,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "10",
+      "monsterName": "Ribbon Pig",
+      "item": "4020001",
+      "itemName": "Amethyst Ore",
+      "v83Monster": 1210101,
+      "v83Item": 4020001
+    },
+    {
+      "monster": "10",
+      "monsterName": "Ribbon Pig",
+      "item": "4010002",
+      "itemName": "Mithril Ore",
+      "v83Monster": 1210101,
+      "v83Item": 4010002
+    },
+    {
+      "monster": "10",
+      "monsterName": "Ribbon Pig",
+      "item": "1032001",
+      "itemName": "Amethyst Earrings",
+      "v83Monster": 1210101,
+      "v83Item": 1032003
+    },
+    {
+      "monster": "10",
+      "monsterName": "Ribbon Pig",
+      "item": "1040014",
+      "itemName": "Orange Sporty T-Shirt",
+      "v83Monster": 1210101,
+      "v83Item": 1040014
+    },
+    {
+      "monster": "10",
+      "monsterName": "Ribbon Pig",
+      "item": "1061024",
+      "itemName": "White Split Skirt",
+      "v83Monster": 1210101,
+      "v83Item": 1061028
+    },
+    {
+      "monster": "10",
+      "monsterName": "Ribbon Pig",
+      "item": "1040018",
+      "itemName": "Silver Leather Hoodwear",
+      "v83Monster": 1210101,
+      "v83Item": 1040011
+    },
+    {
+      "monster": "10",
+      "monsterName": "Ribbon Pig",
+      "item": "1060015",
+      "itemName": "Dark Nightshift Pants",
+      "v83Monster": 1210101,
+      "v83Item": 1060024
+    },
+    {
+      "monster": "4",
+      "monsterName": "Shroom",
+      "item": "4000003",
+      "itemName": "Mushroom Spore",
+      "v83Monster": 120100,
+      "v83Item": 4000011
+    },
+    {
+      "monster": "4",
+      "monsterName": "Shroom",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 120100,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "4",
+      "monsterName": "Shroom",
+      "item": "4010002",
+      "itemName": "Mithril Ore",
+      "v83Monster": 120100,
+      "v83Item": 4010002
+    },
+    {
+      "monster": "4",
+      "monsterName": "Shroom",
+      "item": "4020002",
+      "itemName": "Aquamarine Ore",
+      "v83Monster": 120100,
+      "v83Item": 4020002
+    },
+    {
+      "monster": "4",
+      "monsterName": "Shroom",
+      "item": "1062001",
+      "itemName": "Ice Jeans",
+      "v83Monster": 120100,
+      "v83Item": 1062000
+    },
+    {
+      "monster": "4",
+      "monsterName": "Shroom",
+      "item": "1312000",
+      "itemName": "Hand Axe",
+      "v83Monster": 120100,
+      "v83Item": 1312004
+    },
+    {
+      "monster": "4",
+      "monsterName": "Shroom",
+      "item": "1060003",
+      "itemName": "Jean Capris",
+      "v83Monster": 120100,
+      "v83Item": 1060007
+    },
+    {
+      "monster": "4",
+      "monsterName": "Shroom",
+      "item": "1332003",
+      "itemName": "Field Dagger",
+      "v83Monster": 120100,
+      "v83Item": 1332006
+    },
+    {
+      "monster": "4",
+      "monsterName": "Shroom",
+      "item": "1061007",
+      "itemName": "Green Avelin Skirt",
+      "v83Monster": 120100,
+      "v83Item": 1061009
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "4000006",
+      "itemName": "Squishy Liquid",
+      "v83Monster": 210100,
+      "v83Item": 4000004
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "4000007",
+      "itemName": "Slime Bubble",
+      "v83Monster": 210100,
+      "v83Item": 4000010
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "485",
+      "itemName": "Omok Piece: Slime",
+      "v83Monster": 210100,
+      "v83Item": 4030000
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 210100,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "4020005",
+      "itemName": "Sapphire Ore",
+      "v83Monster": 210100,
+      "v83Item": 4020005
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "4010005",
+      "itemName": "Orihalcon Ore",
+      "v83Monster": 210100,
+      "v83Item": 4010005
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "1002011",
+      "itemName": "White Bandana",
+      "v83Monster": 210100,
+      "v83Item": 1002019
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "1060001",
+      "itemName": "Blue Jean Shorts",
+      "v83Monster": 210100,
+      "v83Item": 1060002
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "1322002",
+      "itemName": "Leather Purse",
+      "v83Monster": 210100,
+      "v83Item": 1322007
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "1072025",
+      "itemName": "Bronze Aroa Boots",
+      "v83Monster": 210100,
+      "v83Item": 1072008
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "1412000",
+      "itemName": "Metal Axe",
+      "v83Monster": 210100,
+      "v83Item": 1412001
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "1412001",
+      "itemName": "Iron Axe",
+      "v83Monster": 210100,
+      "v83Item": 1412002
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "1432001",
+      "itemName": "Fork on a Stick",
+      "v83Monster": 210100,
+      "v83Item": 1432001
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "1432000",
+      "itemName": "Spear",
+      "v83Monster": 210100,
+      "v83Item": 1432000
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "1082003",
+      "itemName": "Lemona",
+      "v83Monster": 210100,
+      "v83Item": 1082019
+    },
+    {
+      "monster": "7",
+      "monsterName": "Slime",
+      "item": "1072016",
+      "itemName": "Beige Nitty",
+      "v83Monster": 210100,
+      "v83Item": 1072023
+    },
+    {
+      "monster": "2",
+      "monsterName": "Snail",
+      "item": "4000001",
+      "itemName": "Snail Shell",
+      "v83Monster": 100100,
+      "v83Item": 4000019
+    },
+    {
+      "monster": "2",
+      "monsterName": "Snail",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 100100,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "2",
+      "monsterName": "Snail",
+      "item": "4020000",
+      "itemName": "Garnet Ore",
+      "v83Monster": 100100,
+      "v83Item": 4020000
+    },
+    {
+      "monster": "2",
+      "monsterName": "Snail",
+      "item": "4010000",
+      "itemName": "Bronze Ore",
+      "v83Monster": 100100,
+      "v83Item": 4010000
+    },
+    {
+      "monster": "2",
+      "monsterName": "Snail",
+      "item": "1002005",
+      "itemName": "Green Headband",
+      "v83Monster": 100100,
+      "v83Item": 1002067
+    },
+    {
+      "monster": "2",
+      "monsterName": "Snail",
+      "item": "1302000",
+      "itemName": "Sword",
+      "v83Monster": 100100,
+      "v83Item": 1302000
+    },
+    {
+      "monster": "2",
+      "monsterName": "Snail",
+      "item": "1040001",
+      "itemName": "White Undershirt",
+      "v83Monster": 100100,
+      "v83Item": 1040002
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "4000017",
+      "itemName": "Stirge Wing",
+      "v83Monster": 2300100,
+      "v83Item": 4000042
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "4003002",
+      "itemName": "Stiff Feather",
+      "v83Monster": 2300100,
+      "v83Item": 4003004
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "2000001",
+      "itemName": "Orange Potion",
+      "v83Monster": 2300100,
+      "v83Item": 2000001
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 2300100,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "2010005",
+      "itemName": "Lemon",
+      "v83Monster": 2300100,
+      "v83Item": 2010004
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "4020000",
+      "itemName": "Garnet Ore",
+      "v83Monster": 2300100,
+      "v83Item": 4020000
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "1082000",
+      "itemName": "Work Gloves",
+      "v83Monster": 2300100,
+      "v83Item": 1082002
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "1040016",
+      "itemName": "Steel Corporal",
+      "v83Monster": 2300100,
+      "v83Item": 1040009
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "1060013",
+      "itemName": "Steel Corporal Pants",
+      "v83Monster": 2300100,
+      "v83Item": 1060009
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "1452004",
+      "itemName": "Ryden",
+      "v83Monster": 2300100,
+      "v83Item": 1452005
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "1002063",
+      "itemName": "Green Robin Hat",
+      "v83Monster": 2300100,
+      "v83Item": 1002119
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "1040027",
+      "itemName": "Red Pao",
+      "v83Monster": 2300100,
+      "v83Item": 1040043
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "1041035",
+      "itemName": "Pink Qi Pao",
+      "v83Monster": 2300100,
+      "v83Item": 1041039
+    },
+    {
+      "monster": "17",
+      "monsterName": "Stirge",
+      "item": "1061034",
+      "itemName": "Purple Qi Pao Skirt",
+      "v83Monster": 2300100,
+      "v83Item": 1061041
+    },
+    {
+      "monster": "6",
+      "monsterName": "Stump",
+      "item": "4000005",
+      "itemName": "Tree Branch",
+      "v83Monster": 130100,
+      "v83Item": 4000003
+    },
+    {
+      "monster": "6",
+      "monsterName": "Stump",
+      "item": "484",
+      "itemName": "Omok Table",
+      "v83Monster": 130100,
+      "v83Item": 4030009
+    },
+    {
+      "monster": "6",
+      "monsterName": "Stump",
+      "item": "2000000",
+      "itemName": "Red Potion",
+      "v83Monster": 130100,
+      "v83Item": 2000000
+    },
+    {
+      "monster": "6",
+      "monsterName": "Stump",
+      "item": "4010003",
+      "itemName": "Adamantium Ore",
+      "v83Monster": 130100,
+      "v83Item": 4010003
+    },
+    {
+      "monster": "6",
+      "monsterName": "Stump",
+      "item": "4020003",
+      "itemName": "Emerald Ore",
+      "v83Monster": 130100,
+      "v83Item": 4020003
+    },
+    {
+      "monster": "6",
+      "monsterName": "Stump",
+      "item": "1322000",
+      "itemName": "Wooden Club",
+      "v83Monster": 130100,
+      "v83Item": 1322005
+    },
+    {
+      "monster": "6",
+      "monsterName": "Stump",
+      "item": "1072025",
+      "itemName": "Bronze Aroa Boots",
+      "v83Monster": 130100,
+      "v83Item": 1072008
+    },
+    {
+      "monster": "6",
+      "monsterName": "Stump",
+      "item": "1082001",
+      "itemName": "Juno",
+      "v83Monster": 130100,
+      "v83Item": 1082003
+    },
+    {
+      "monster": "6",
+      "monsterName": "Stump",
+      "item": "1072028",
+      "itemName": "Brown High Boots",
+      "v83Monster": 130100,
+      "v83Item": 1072007
+    },
+    {
+      "monster": "6",
+      "monsterName": "Stump",
+      "item": "1452001",
+      "itemName": "Composite Bow",
+      "v83Monster": 130100,
+      "v83Item": 1452003
+    },
+    {
+      "monster": "6",
+      "monsterName": "Stump",
+      "item": "1332002",
+      "itemName": "Triangular Zamadar",
+      "v83Monster": 130100,
+      "v83Item": 1332000
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "4000021",
+      "itemName": "Wild Boar Tooth",
+      "v83Monster": 2230102,
+      "v83Item": 4000020
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "4000049",
+      "itemName": "Leather",
+      "v83Monster": 2230102,
+      "v83Item": 4000021
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "4003002",
+      "itemName": "Stiff Feather",
+      "v83Monster": 2230102,
+      "v83Item": 4003004
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "2000001",
+      "itemName": "Orange Potion",
+      "v83Monster": 2230102,
+      "v83Item": 2000001
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 2230102,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "2002000",
+      "itemName": "Warrior Potion",
+      "v83Monster": 2230102,
+      "v83Item": 2002004
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "4006001",
+      "itemName": "The Summoning Rock",
+      "v83Monster": 2230102,
+      "v83Item": 4006001
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "4010003",
+      "itemName": "Adamantium Ore",
+      "v83Monster": 2230102,
+      "v83Item": 4010003
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "4020004",
+      "itemName": "Opal Ore",
+      "v83Monster": 2230102,
+      "v83Item": 4020004
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1032002",
+      "itemName": "Weighted Earrings",
+      "v83Monster": 2230102,
+      "v83Item": 1032000
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1032009",
+      "itemName": "Sapphire Earrings",
+      "v83Monster": 2230102,
+      "v83Item": 1032002
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1432004",
+      "itemName": "Nakamaki",
+      "v83Monster": 2230102,
+      "v83Item": 1432003
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1072063",
+      "itemName": "Mithril Battle Grieves",
+      "v83Monster": 2230102,
+      "v83Item": 1072039
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1402006",
+      "itemName": "Lionheart",
+      "v83Monster": 2230102,
+      "v83Item": 1402006
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1072065",
+      "itemName": "Blood Battle Grieves",
+      "v83Monster": 2230102,
+      "v83Item": 1072041
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1051003",
+      "itemName": "Red Doroness Robe",
+      "v83Monster": 2230102,
+      "v83Item": 1051005
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1051002",
+      "itemName": "Purple Doroness Robe",
+      "v83Monster": 2230102,
+      "v83Item": 1051004
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1002101",
+      "itemName": "Bronze Pride",
+      "v83Monster": 2230102,
+      "v83Item": 1002064
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1041031",
+      "itemName": "Green Shivermail",
+      "v83Monster": 2230102,
+      "v83Item": 1041013
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1061026",
+      "itemName": "Green Shivermail Skirt",
+      "v83Monster": 2230102,
+      "v83Item": 1061024
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1061016",
+      "itemName": "Green Able Armor Skirt",
+      "v83Monster": 2230102,
+      "v83Item": 1061006
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1041033",
+      "itemName": "Purple Shivermail",
+      "v83Monster": 2230102,
+      "v83Item": 1041028
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1040062",
+      "itemName": "Brown Piette",
+      "v83Monster": 2230102,
+      "v83Item": 1040079
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1060054",
+      "itemName": "Brown Piette Pants",
+      "v83Monster": 2230102,
+      "v83Item": 1060069
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1072076",
+      "itemName": "Iron Chain Boots",
+      "v83Monster": 2230102,
+      "v83Item": 1072033
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1472009",
+      "itemName": "Mithril Guards",
+      "v83Monster": 2230102,
+      "v83Item": 1472009
+    },
+    {
+      "monster": "22",
+      "monsterName": "Wild Boar",
+      "item": "1072055",
+      "itemName": "Red Lappy Boots",
+      "v83Monster": 2230102,
+      "v83Item": 1072085
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "2000001",
+      "itemName": "Orange Potion",
+      "v83Monster": 2230101,
+      "v83Item": 2000001
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "2000003",
+      "itemName": "Blue Potion",
+      "v83Monster": 2230101,
+      "v83Item": 2000003
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "2002003",
+      "itemName": "Dexterity Potion",
+      "v83Monster": 2230101,
+      "v83Item": 2002000
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "4010002",
+      "itemName": "Mithril Ore",
+      "v83Monster": 2230101,
+      "v83Item": 4010002
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "4020003",
+      "itemName": "Emerald Ore",
+      "v83Monster": 2230101,
+      "v83Item": 4020003
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "1032004",
+      "itemName": "Gold Earrings",
+      "v83Monster": 2230101,
+      "v83Item": 1032004
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "1032002",
+      "itemName": "Weighted Earrings",
+      "v83Monster": 2230101,
+      "v83Item": 1032000
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "1412001",
+      "itemName": "Iron Axe",
+      "v83Monster": 2230101,
+      "v83Item": 1412002
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "1060030",
+      "itemName": "Red Martial Arts Pants",
+      "v83Monster": 2230101,
+      "v83Item": 1060018
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "1002087",
+      "itemName": "Iron Burgernet Helm",
+      "v83Monster": 2230101,
+      "v83Item": 1002005
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "1040041",
+      "itemName": "Green Hwarang Shirt",
+      "v83Monster": 2230101,
+      "v83Item": 1040026
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "1432004",
+      "itemName": "Nakamaki",
+      "v83Monster": 2230101,
+      "v83Item": 1432003
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "1082055",
+      "itemName": "Red Arten",
+      "v83Monster": 2230101,
+      "v83Item": 1082062
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "1372004",
+      "itemName": "Mithril Wand",
+      "v83Monster": 2230101,
+      "v83Item": 1372003
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "1002090",
+      "itemName": "Green Hunter",
+      "v83Monster": 2230101,
+      "v83Item": 1002158
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "1040037",
+      "itemName": "Brown Sneak",
+      "v83Monster": 2230101,
+      "v83Item": 1040048
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "1060026",
+      "itemName": "Brown Sneak Pants",
+      "v83Monster": 2230101,
+      "v83Item": 1060038
+    },
+    {
+      "monster": "21",
+      "monsterName": "Zombie Mushroom",
+      "item": "1040029",
+      "itemName": "Black Pao",
+      "v83Monster": 2230101,
+      "v83Item": 1040044
+    },
+    {
+      "monster": "700004",
+      "monsterName": "Mano",
+      "item": "1322005",
+      "itemName": "Hammer",
+      "v83Monster": 2220000,
+      "v83Item": 1322001
+    },
+    {
+      "monster": "700000",
+      "monsterName": "Mushmom",
+      "item": "4000048",
+      "itemName": "Mushmom Spore",
+      "v83Monster": 6130101,
+      "v83Item": 4000040
+    },
+    {
+      "monster": "700000",
+      "monsterName": "Mushmom",
+      "item": "486",
+      "itemName": "Omok Piece: Mushroom",
+      "v83Monster": 6130101,
+      "v83Item": 4030001
+    },
+    {
+      "monster": "700000",
+      "monsterName": "Mushmom",
+      "item": "1032014",
+      "itemName": "Red-Hearted Earrings",
+      "v83Monster": 6130101,
+      "v83Item": 1032013
+    },
+    {
+      "monster": "700000",
+      "monsterName": "Mushmom",
+      "item": "1092013",
+      "itemName": "Steel Tower Shield",
+      "v83Monster": 6130101,
+      "v83Item": 1092012
+    },
+    {
+      "monster": "700000",
+      "monsterName": "Mushmom",
+      "item": "1372006",
+      "itemName": "Fairy Wand",
+      "v83Monster": 6130101,
+      "v83Item": 1372000
+    },
+    {
+      "monster": "700002",
+      "monsterName": "Zombie Mushmom",
+      "item": "1102020",
+      "itemName": "Black Gaia Cape",
+      "v83Monster": 6300005,
+      "v83Item": 1102024
+    },
+    {
+      "monster": "700002",
+      "monsterName": "Zombie Mushmom",
+      "item": "1032018",
+      "itemName": "Pink-Flowered Earrings",
+      "v83Monster": 6300005,
+      "v83Item": 1032014
+    },
+    {
+      "monster": "700002",
+      "monsterName": "Zombie Mushmom",
+      "item": "1092021",
+      "itemName": "Silver Ancient Shield",
+      "v83Monster": 6300005,
+      "v83Item": 1092016
+    },
+    {
+      "monster": "700002",
+      "monsterName": "Zombie Mushmom",
+      "item": "1092018",
+      "itemName": "Silver Legend Shield",
+      "v83Monster": 6300005,
+      "v83Item": 1092010
+    },
+    {
+      "monster": "700002",
+      "monsterName": "Zombie Mushmom",
+      "item": "1302010",
+      "itemName": "Cutlus",
+      "v83Monster": 6300005,
+      "v83Item": 1302004
+    }
+  ]
+}
