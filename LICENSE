@@ -7,11 +7,22 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Attribution: game data from the MapleClassic Wiki contributors, https://mapleclassic.wiki/
 Changes: tables were selected, joined and cleaned; training spots were derived from monster
-levels and spawns; each monster keeps its five likeliest drops; quest texts were shortened.
+levels and spawns; each monster keeps its five likeliest drops and, from format 3.1, its whole
+list; quest texts were shortened.
+
+The rows of a monster's drop list marked "source": "v83" in a pack of format 3.2 or later, and
+the mapping they are built from, gms-v83-drops.json in this repository, are a separate work
+derived from the GMS v83 drop table of HeavenMS (https://github.com/ronancpl/HeavenMS,
+sql/db_drops.sql), which is licensed under the GNU Affero General Public License, version 3
+(AGPL-3.0). That work is shared under the same license, whose text is in AGPL-3.0.txt here; the
+mapping is its source form. Changes: the table's rows were matched by name to the wiki's monsters
+and items, rows bound to a quest, at zero chance, of cards or of items the wiki does not list were
+left out, and the rates were not kept. A pack is an aggregate of that work and the wiki's data;
+Dravix itself only reads the pack.
 
 The pictures of monsters, items, NPCs and skills in a pack of format 3 or later are NEXON's game
 art, as the MapleClassic Wiki shows them, included for identification only. They are covered
-neither by the wiki's license nor by Dravix's; NEXON holds their copyright.
+neither by the wiki's license, nor by the AGPL, nor by Dravix's; NEXON holds their copyright.
 
 The packs hold no code. MapleStory is a trademark of NEXON Korea Corporation. Dravix is not
-affiliated with NEXON or with the MapleClassic Wiki.
+affiliated with NEXON, with the MapleClassic Wiki or with HeavenMS.
