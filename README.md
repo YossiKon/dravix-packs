@@ -23,9 +23,10 @@ There is no code here.
   each `.dravixpack`. Three pack formats are served side by side, so a Dravix that reads only an
   older format keeps its pack: `maplestory-classic-r2` (format 1) for Dravix 0.1.15 and before,
   `maplestory-classic-r3` (format 2, with the items, NPCs, shops and quest details) for Dravix
-  0.1.16, and `maplestory-classic-r6` (format 3.2, with the pictures, the whole drop lists and the
-  GMS v83 rows) from Dravix 0.1.17, which keeps the five likeliest drops of each monster, while
-  Dravix 0.1.18 shows them all, the GMS v83 rows under their own heading.
+  0.1.16, and `maplestory-classic-r7` (format 3.2, with the pictures, the whole drop lists and the
+  GMS v83 rows, from the wiki of 2026-10-23) from Dravix 0.1.17, which keeps the five likeliest
+  drops of each monster, while Dravix 0.1.18 shows them all, the GMS v83 rows under their own
+  heading.
 - **Trust:** Dravix installs a pack only when its Ed25519 signature and every checksum pass, so
   the host does not matter, and a changed copy is refused.
 
